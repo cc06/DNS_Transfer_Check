@@ -1,0 +1,2 @@
+# DNS_Transfer_Check
+一个用来批量检测网站是否存在域传送漏洞的Python脚本
