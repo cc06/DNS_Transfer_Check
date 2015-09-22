@@ -1,3 +1,4 @@
+__author__ = 'Layert'
 #coding:utf-8
 '''
 #这是一个用来检测网站是否存在域传送漏洞的脚本，请在python2.7版本下运行
