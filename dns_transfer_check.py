@@ -4,6 +4,7 @@ __author__ = 'Layert'
 #这是一个用来检测网站是否存在域传送漏洞的脚本，请在python2.7版本下运行
 #可以根据需要，选择单个检测和批量检测
 '''
+
 import sys
 import socket
 import optparse
@@ -17,19 +18,26 @@ except ImportError:
 
 
 class Transferrer(object):
+
     def __init__(self, domain):
         self.domain = domain
-        ## build list of nameservers
-        nss = resolver.query(domain, 'NS')
-        self.nameservers = [ str(ns) for ns in nss ]
+        try:
+            nss = resolver.query(domain, 'NS')
+            self.nameservers = [ str(ns) for ns in nss ]
+        except:
+            pass
 
 
     def transfer(self):
+        f = open('result.txt','a')
         for ns in self.nameservers:
             print >> sys.stderr, "Querying %s" % (ns,)
             print >> sys.stderr, "-" * 50
             z = self.query(ns)
             print z
+            if z!=None:
+                f.write(str(self.domain)+':  '+str(ns)+'\n')
+                # print self.domain ,ns
             print >> sys.stderr, "%s\n" % ("-" * 50,)
 
 
@@ -53,8 +61,8 @@ class Transferrer(object):
     def pull_zone(self, nameserver):
         """Sends the domain transfer request"""
         q = query.xfr(nameserver, self.domain, relativize=False, timeout=2)
-        zone = ""   ## janky, but this library returns
-        for m in q: ## an empty generator on timeout
+        zone = ""   
+        for m in q: 
             zone += str(m)
         if not zone:
             raise EOFError
@@ -84,11 +92,17 @@ if __name__ == "__main__":
     try:
         for i in range(len(url)):
             s =  url[i].strip('\n')
-            print s
+            print i, s
             t = Transferrer(s)
-            t.transfer()
+            try:
+
+                t.transfer()
+
+            except:
+                print 'null'
         print '[*]Task has been finished!'
     except:
         pass
+
 
 
