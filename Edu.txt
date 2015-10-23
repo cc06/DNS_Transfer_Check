@@ -1,0 +1,2950 @@
+#1、数据采集这里：
+<code>http://u.feelingmsg.com/u/</code>
+
+#2、全国高校地址（2392）
+<code>
+http://www.ust.hk
+http://www.polyu.edu.hk
+http://www.cuhk.edu.hk
+http://www.hkbu.edu.hk
+http://www.cityu.edu.hk
+http://www.ln.edu.hk
+http://www.ied.edu.hk
+http://www.goethe.de
+http://www.umac.mo
+http://www.ipm.edu.mo
+http://www.must.edu.mo
+http://www.cityu.edu.mo
+http://www.kwnc.edu.mo
+http://www.ift.edu.mo
+http://www.fsm.gov.mo
+http://www.ncu.edu.tw
+http://www.nthu.edu.tw
+http://www.nctu.edu.tw
+http://www.ntu.edu.tw
+http://www.ncyu.edu.tw
+http://www.yzu.edu.tw
+http://www.ncku.edu.tw
+http://www.nsysu.edu.tw
+http://www.cycu.edu.tw
+http://www.nccu.edu.tw
+http://www.fju.edu.tw
+http://www.fju.edu.tw
+http://www.ntust.edu.tw
+http://www.ntnu.edu.tw
+http://www.ntua.edu.tw
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.sysu.edu.cn
+http://www.scut.edu.cn
+http://www.jnu.edu.cn
+http://www.stu.edu.cn
+http://www.szu.edu.cn
+http://www.wyu.edu.cn
+http://www.gdut.edu.cn
+http://www.scau.edu.cn
+http://www.gdou.edu.cn
+http://www.gzhtcm.edu.cn
+http://www.fimmu.com
+http://www.scnu.edu.cn
+http://www.gdufs.edu.cn
+http://www.gzhu.edu.cn
+http://www.gdpa.edu.cn
+http://www.zqu.edu.cn
+http://www.dgut.edu.cn
+http://www.zhku.edu.cn
+http://www.gdmc.edu.cn
+http://www.gzhmc.edu.cn
+http://www.gdpu.edu.cn
+http://www.hzu.edu.cn
+http://www.zhjnc.edu.cn
+http://www.hstc.edu.cn
+http://www.jyu.edu.cn
+http://www.sgu.edu.cn
+http://www.gduf.edu.cn
+http://www.gdcc.edu.cn
+http://www.gdppla.edu.cn
+http://www.gipe.edu.cn
+http://www.gzarts.edu.cn
+http://www.xhcom.edu.cn
+http://www.gdin.edu.cn
+http://www.peizheng.net.cn
+http://www.bvtc.edu.cn
+http://www.fosu.edu.cn
+http://www.gdei.edu.cn
+http://www.gdnanbo.com
+http://www.gzhmt.edu.cn
+http://www.zqyz.gd.cn
+http://www.hlu.edu.cn
+http://www.nhic.edu.cn
+http://www.gdyzy.edu.cn
+http://www.gzpyp.edu.cn
+http://www.gdxa.cn
+http://www.gdsdxy.edu.cn
+http://www.gdaib.edu.cn
+http://www.gdcp.cn
+http://www.gdsspt.net
+http://www.gdqy.edu.cn
+http://www.gdpi.edu.cn
+http://www.gdsfjy.cn
+http://www.gdkm.edu.cn
+http://www.gpc.net.cn
+http://www.gupt.net
+http://www.gdmec.com
+http://www.lingnancollege.com.cn
+http://www.gditt.edu.cn
+http://www.gtcfla.net
+http://www.gdufe.org
+http://www.gdxzzy.cn
+http://www.gdfs.edu.cn
+http://www.gdcvi.net
+http://www.gdit.edu.cn
+http://www.gdgm.cn
+http://www.atvcn.com
+http://www.gdla.edu.cn
+http://www.gdvcp.net
+http://www.gdepc.cn
+http://www.jmyhu.com
+http://www.caac.net
+http://www.gzvtc.cn
+http://www.gcp.edu.cn
+http://www.hnsmxy.com
+http://www.gzkmu.com
+http://www.gzmodern.cn
+http://www.hlxy.net
+http://www.gtxy.gd.edu.cn
+http://www.gztzy.edu.cn
+http://www.gzgs.org.cn
+http://www.gzkjxy.net
+http://www.nyjy.cn
+http://www.gziec.net
+http://www.gzcjc.cn
+http://www.kdvtc-edu.cn
+http://www.sontanedu.cn
+http://www.gzzjedu.cn
+http://www.gzhxtc.cn
+http://www.gzhsvc.com
+http://www.zstp.gd.edu.cn
+http://www.sziit.com.cn
+http://www.zhcpt.net
+http://www.hzcollege.com
+http://www.zqtbu.com
+http://www.zqkjxy.com
+http://www.zmstu.org.cn
+http://www.szpt.edu.cn
+http://www.chaoshan.cn
+http://www.sdpt.com.cn
+http://www.fspt.net
+http://www.zspt.cn
+http://www.swvtc.cn
+http://www.hycollege.net
+http://www.yjcollege.net
+http://www.ldpoly.com
+http://www.jyc.edu.cn
+http://www.qypt.com.cn
+http://www.jmpt.cn
+http://www.mmvtc.cn
+http://www.dgpt.edu.cn
+http://www.zhac.net
+http://www.bnuep.com
+http://www.zsc.edu.cn
+http://www.scnuzc.cn
+http://www.hualixy.com
+http://www.sontan.net
+http://www.zhbit.com
+http://www.jluzh.com
+http://www.scauzhujiang.cn
+http://www.scse.com.cn
+http://www.gdin-thxy.com
+http://www.gzauto.edu.cn
+http://www.gdhsc.edu.cn
+http://www.gdcjxy.com
+http://www.gwng.edu.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.hainu.edu.cn
+http://www.hainmc.edu.cn
+http://www.qzu.edu.cn
+http://www.hainnu.edu.cn
+http://www.hkc.edu.cn
+http://www.qttc.edu.cn
+http://www.sycsxy.cn
+http://www.hcvt.cn
+http://www.hnasatc.com
+http://www.hnspi.edu.cn
+http://www.hnflvc.com
+http://www.hnplc.com
+http://www.hnjmc.com
+http://www.hntbc.edu.cn
+http://www.hnkjedu.cn
+http://www.ucsanya.com
+http://www.syxyhn.com
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.gxu.edu.cn
+http://www.gliet.edu.cn
+http://www.gxmu.edu.cn
+http://www.gxnu.edu.cn
+http://www.gxun.edu.cn
+http://www.glite.edu.cn
+http://www.gxut.edu.cn
+http://www.gxtcmu.edu.cn
+http://www.glmc.edu.cn
+http://www.ymcn.gx.cn
+http://www.gxtc.edu.cn
+http://www.hcnu.edu.cn
+http://www.ylu.edu.cn
+http://www.gxufe.cn
+http://www.gxai.cn
+http://www.bsuc.cn
+http://www.qzu.net.cn
+http://www.hzu.gx.cn
+http://www.gxuwz.edu.cn
+http://www.gxnun.net
+http://www.gxufl.com
+http://www.glcat.edu.cn
+http://www.lzyz.cn
+http://www.glnc.edu.cn
+http://www.gxyesf.com
+http://www.gxlztc.net
+http://www.glit.edu.cn
+http://www.gagx.com.cn
+http://www.gxtznn.com
+http://www.yjdx.net
+http://www.gxcme.edu.cn
+http://www.ncvt.net
+http://www.lzzy.net
+http://www.gxzjy.com
+http://www.guolianweb.com
+http://www.gxibvc.net
+http://www.gxstzy.cn
+http://www.gxnyxy.com.cn
+http://www.gxdlxy.com
+http://www.gxjzy.com
+http://www.gxsdxy.cn
+http://www.gxjmzy.com
+http://www.gxccedu.com
+http://www.gxic.net
+http://www.bszyxy.cn
+http://www.gxgsxy.com
+http://www.bhzyxy.net
+http://www.sszss.com
+http://www.gxjsxy.cn
+http://www.gxevc.com
+http://www.lcvc.cn
+http://www.gxart.cn
+http://www.ggzy.net
+http://www.lztdzy.com
+http://www.tic-gx.com
+http://www.gxgcedu.com
+http://www.gxlgxy.com
+http://www.wzzyedu.com
+http://www.gxkjzy.com
+http://www.gxwgy.com.cn
+http://www.gxxd.net.cn
+http://www.gxljcollege.cn
+http://www.lzls.gxut.edu.cn
+http://www.gxu.edu.cn
+http://www.gxzyxysy.com
+http://www.bhbhxy.com
+http://www.nnjy.net
+http://www.jgy.gx.cn
+http://www.gxzfxy.cn
+http://www.gxec.net.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.gzu.edu.cn
+http://www.gznu.edu.cn
+http://www.gmc.edu.cn
+http://www.zmc.edu.cn
+http://www.gyctcm.edu.cn
+http://www.gzhnc.edu.cn
+http://www.sgmtu.edu.cn
+http://www.zync.edu.cn
+http://www.gzbjc.cn
+http://www.gzife.edu.cn
+http://www..gznc.edu.cn
+http://www.gztrc.edu.cn
+http://www.kluniv.cn
+http://www.asu.edu.cn
+http://www.gyu.cn
+http://www.qxntc.edu.cn
+http://www.lpssz.edu.cn
+http://www.qnmc.cn
+http://www.zunyiyizhuan.com
+http://www.gycc.net
+http://www.gzjtzy.net
+http://www.gzjgxy.cn
+http://www.gynvc.edu.cn
+http://www.gzhtzy.com
+http://www.gzeic.cn
+http://www.gzky.edu.cn
+http://www.lpszy.cn
+http://www.asotc.cn
+http://www.csgedu.com
+http://www.qdnpt.com
+http://www.trzy.cn
+http://www.gzytvc.cn
+http://www.qnzy.net
+http://www.qxnzy.net
+http://www.gzqy.cn
+http://www.zyzy.gov.cn
+http://www.gzbjzy.edu.cn
+http://www.gyvtc.cn
+http://www.gzvti.com
+http://www.gzmdc.cn
+http://www.gzmyrw.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.ynu.edu.cn
+http://www.kmust.edu.cn
+http://www.ynau.edu.cn
+http://www.ynnu.edu.cn
+http://www.ynufe.edu.cn
+http://www.ynni.edu.cn
+http://www.swfc.edu.cn
+http://www.kmmc.cn
+http://www.ynutcm.edu.cn
+http://www.uoh.edu.cn
+http://www.cxtc.edu.cn
+http://www.yxtc.edu.cn
+http://www.qjnu.edu.cn
+http://www.ynpsc.edu.cn
+http://www.ynart.edu.cn
+http://www.dali.edu.cn
+http://www.kmu.edu.cn
+http://www.wstc.net
+http://www.bsnc.cn
+http://www.yngsxy.net
+http://www.kmyz.edu.cn
+http://www.qjyz.org
+http://www.ynbsyz.cn
+http://www.cxmtc.net
+http://www.zttc.edu.cn
+http://www.lcnc.cn
+http://www.smtc.cn
+http://www.yndhec.net
+http://www.lj-edu.cn
+http://www.ynny.cn
+http://www.ynkexin.cn
+http://www.yngtxy.net
+http://www.kmac.org.cn
+http://www.xsbnzy.com
+http://www.ynavc.com
+http://www.yncs.edu.cn
+http://www.ynarts.cn
+http://www.kmvtc.net
+http://www.sailingedu.com
+http://www.yncjxy.com
+http://www.ynjgx.com
+http://www.ynmec.com
+http://www.ynftc.cn
+http://www.ynry.cn
+http://www.yxnzy.net
+http://www.yncpu.net
+http://www.ynasc.com
+http://www.ytvtc.com
+http://www.ynjw.net
+http://www.yndhvc.com
+http://www.ynsxzy.com
+http://www.ynswzyxy.com
+http://www.ynnubs.com
+http://www.lywhxy.com
+http://www.kyhyxy.com
+http://www.ysdwl.cn
+http://www.oxbridge.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.whu.edu.cn
+http://www.znufe.edu.cn
+http://www.hust.edu.cn
+http://www.whut.edu.cn
+http://www.cug.edu.cn
+http://www.hzau.edu.cn
+http://www.ccnu.edu.cn
+http://www.scuec.edu.cn
+http://www.hubu.edu.cn
+http://www.yangtzeu.edu.cn
+http://www.ctgu.edu.cn
+http://www.jhun.edu.cn
+http://www.wust.edu.cn
+http://www.hbut.edu.cn
+http://www.wit.edu.cn
+http://www.wuse.edu.cn
+http://www.hbtcm.edu.cn
+http://www.whpu.edu.cn
+http://www.qcxy.hb.cn
+http://www.xgu.cn
+http://www.hgnu.cn
+http://www.hbnu.edu.cn
+http://www.hbue.edu.cn
+http://www.hbpa.edu.cn
+http://www.wipe.edu.cn
+http://www.hifa.edu.cn
+http://www.whcm.edu.cn
+http://www.hbmy.edu.cn
+http://www.hbuas.edu.cn
+http://www.hsit.edu.cn
+http://www.enxnc.com.cn
+http://www.jcut.edu.cn
+http://www.hubce.edu.cn
+http://www.whsw.cn
+http://www.wybu.cn
+http://www.bsccnu.net.cn
+http://www.znuni.cn
+http://www.hbzyy.org
+http://www.yytc.net.cn
+http://www.hbcz.com
+http://www.wspc.edu.cn
+http://www.whcsc.edu.cn
+http://www.hbhgzy.com.cn
+http://www.wtc.edu.cn
+http://www.cjxy.edu.cn
+http://www.hbvtc.edu.cn
+http://www.eszy.edu.cn
+http://www.ezu.net.cn
+http://www.syzy.com.cn
+http://www.ssdx.net
+http://www.wgy.cn
+http://www.hbhgkj.com
+http://www.hb-green.com
+http://www.hbswkj.com
+http://www.hbftc.org.cn
+http://www.edzy.cn
+http://www.szvtc.cn
+http://www.tgcep.cn
+http://www.hbjhart.com
+http://www.hbqnxy.com
+http://www.ucvc.net
+http://www.whmzxy.cn
+http://www.whkjzy.cn
+http://www.wru.com.cn
+http://www.whhhxy.com
+http://www.artschool.com.cn
+http://www.tgc.edu.cn
+http://www.whpa.cn
+http://www.whetc.hb.sgcc.com.cn
+http://www.hubstc.com.cn
+http://www.hbsy.cn
+http://www.whflfa.com
+http://www.whicu.com
+http://www.whjzy.net
+http://www.whvcse.com
+http://www.hbgt.com.cn
+http://www.whinfo.cn
+http://www.cj-edu.com.cn
+http://www.wlci.com.cn
+http://www.hbou.cn
+http://www.hbxtzy.com
+http://www.wgxy.net
+http://www.jzit.net.cn
+http://www.hbliti.com
+http://www.hbctc.edu.cn
+http://www.xnec.cn
+http://www.hspt.net.cn
+http://www.whcvc.cn
+http://www.sxlyzy.edu.cn
+http://www.hustwb.edu.cn
+http://www.hustwenhua.net
+http://www.whxy.net
+http://www.1957.cn
+http://www.hudazx.cn
+http://www.city.wust.edu.cn
+http://www.hugsm.e21.edu.cn
+http://www.wpuic.net.cn
+http://www.witpt.edu.cn
+http://www.jdwlxy.cn:8080
+http://www.kjxy.wipe.edu.cn
+http://www.wlxy.hbnu.edu.cn
+http://www.xgutc.cn
+http://www.hbmykjxy.cn
+http://www.xfstu.net.cn
+http://www.jccug.com
+http://www.whmc.edu.cn
+http://www.jz100.net
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.nudt.edu.cn
+http://www.csu.edu.cn
+http://www.hnu.cn
+http://www.csust.edu.cn
+http://www.hunnu.edu.cn
+http://www.hnust.edu.cn
+http://www.xtu.edu.cn
+http://www.jsu.edu.cn
+http://www.usc.edu.cn
+http://www.zhuzit.edu.cn
+http://www.hunau.net
+http://www.hnctcm.com
+http://www.csuft.com
+http://www.ccsu.cn
+http://www.hncu.net
+http://www.hnie.edu.cn
+http://www.hnist.cn
+http://www.csmu.edu.cn
+http://www.hynu.edu.cn
+http://www.xnu.edu.cn
+http://www.hunaneu.com
+http://www.hnuc.edu.cn
+http://www.huas.cn
+http://www.hhtc.edu.cn
+http://www.huse.cn
+http://www.hnsyu.net
+http://www.hnrku.net.cn
+http://www.hnpu.edu.cn
+http://www.hnfnc.edu.cn
+http://www.hnnd.com.cn
+http://www.hncz.edu.cn
+http://www.hnpolice.com
+http://www.yizhuan.com
+http://www.hntcmc.net
+http://www.hnsyyz.cn
+http://www.hnyyyz.com
+http://www.chnbd.com
+http://www.hnebp.edu.cn
+http://www.hnslsdxy.com
+http://www.cssttc.gov.cn
+http://www.hnswxy.com
+http://www.hnjtzy.com.cn
+http://www.hnflc.cn
+http://www.8379888.com
+http://www.hnbemc.com
+http://www.hntky.com
+http://www.arthn.com
+http://www.hnrpc.com
+http://www.hunangy.com
+http://www.hnmmc.cn
+http://www.hniu.com
+http://www.56edu.com
+http://www.tongde.com
+http://www.4744edu.com
+http://www.hnsoftedu.com
+http://www.hnwmxy.com
+http://www.hnshzy.cn
+http://www.hnhgzy.com
+http://www.hnucc.com
+http://www.hnjd.net.cn
+http://www.hnisc.com
+http://www.hnkjjm.com
+http://www.xlgy.com
+http://www.htcce.com
+http://www.hnmeida.com.cn
+http://www.hnevc.com
+http://www.hnjdzy.net
+http://www.hnvc.net.cn
+http://www.hngcjx.com.cn
+http://www.hnkjxy.net.cn
+http://www.hnupc.net
+http://www.2823333.com
+http://www.ldzy.com
+http://www.hnlgxy.com
+http://www.cavtc.cn
+http://www.csmzxy.com
+http://www.cseptc.hn.sgcc.com.cn
+http://www.cssf.cn
+http://www.hbcollege.com.cn
+http://www.hncpu.com
+http://www.nfdx.net
+http://www.csctc.net
+http://www.cszyedu.cn
+http://www.zjjhy.net
+http://www.hycgy.com
+http://www.xxmzy.com
+http://www.hnyzzy.com
+http://www.zzptc.com
+http://www.hnxxc.com
+http://www.hhptc.com.cn
+http://www.yyzy.cn
+http://www.cdzy.cn
+http://www.bxxy.com
+http://www.yyvtc.cn
+http://www.syzyedu.com
+http://www.czzy-edu.com
+http://www.xtzy.com
+http://www.bjxy.net.cn
+http://www.hnaues.com
+http://www.csust.edu.cn
+http://www.hnut-d.com
+http://www.hnuf.cn
+http://www.hnieyy.cn
+http://www.hnzyxx.com
+http://www.nnjy.net
+http://www.zzgyxx.cn
+http://www.xtjyxy.com
+http://www.csjyxy.cn
+http://www.hnyszy.com.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.zzu.edu.cn
+http://www.henu.edu.cn
+http://www.haust.edu.cn
+http://www.hpu.edu.cn
+http://www.haut.edu.cn
+http://www.henau.edu.cn
+http://www.henannu.edu.cn
+http://www.huel.edu.cn
+http://www.ncwu.edu.cn
+http://www.zzuli.edu.cn
+http://www.zzti.edu.cn
+http://www.ayit.edu.cn
+http://www.nyist.net
+http://www.hhstu.edu.cn
+http://www.zzia.edu.cn
+http://www.hncj.edu.cn
+http://www.hactcm.edu.cn
+http://www.xxmu.edu.cn
+http://www.xytc.edu.cn
+http://www.nynu.edu.cn
+http://www.sqnc.edu.cn
+http://www.zknu.edu.cn
+http://www.lynu.cn
+http://www.aynu.edu.cn
+http://www.hist.edu.cn
+http://www.huanghuai.edu.cn
+http://www.pdsu.edu.cn
+http://www.haue.edu.cn
+http://www.lit.edu.cn
+http://www.xctc.edu.cn
+http://www.xxu.edu.cn
+http://www.zzhxxy.com
+http://www.zzist.net
+http://www.zztc.com.cn
+http://www.hngazk.edu.cn
+http://www.sstvc.com
+http://www.shengda.edu.cn
+http://www.hnhyedu.net
+http://www.tdjg.com.cn
+http://www.lhmc.edu.cn
+http://www.hneeu.edu.cn
+http://www.zepc.edu.cn
+http://www.zzcah.edu.cn
+http://www.xyac.edu.cn
+http://www.shuqing.org
+http://www.sqyx.edu.cn
+http://www.nymc.cn
+http://www.jzsz.edu.cn
+http://www.habc.edu.cn
+http://www.hacz.edu.cn
+http://www.smxpt.cn
+http://www.hnzj.ha.cn
+http://www.zzrvtc.com
+http://www.yrcti.edu.cn
+http://www.kfu.cn
+http://www.zhzhu.edu.cn
+http://www.jzu.edu.cn
+http://www.lhvtc.edu.cn
+http://www.zzyedu.cn
+http://www.hngm.cn
+http://www.pzxy.edu.cn
+http://www.jyvtc.com
+http://www.hnpi.cn
+http://www.hnjc.edu.cn
+http://www.jtxy.com
+http://www.hnjmxy.cn
+http://www.hncc.net
+http://www.zztrc.edu.cn
+http://www.xyvtc.cn
+http://www.yczyxy.com
+http://www.zazy.cn
+http://www.shaolinkungfu.edu.cn
+http://www.zlxy.cn
+http://www.zyfb.com
+http://www.pyvtc.cn
+http://www.hnac.com.cn
+http://www.zkvtc.edu.cn
+http://www.hbzy.edu.cn
+http://www.zzjm.edu.cn
+http://www.zzdl.com
+http://www.sqzy.com.cn
+http://www.techcollege.cn
+http://www.xcitc.edu.cn
+http://www.hnjs.com.cn
+http://www.zkkjxy.net
+http://www.brenda.edu.cn
+http://www.lsgx.com.cn
+http://www.xxvtc.com
+http://www.zmdvtc.cn
+http://www.haict.edu.cn
+http://www.hnarti.com
+http://www.kfvcca.com
+http://www.cyprxy.com
+http://www.jzgmxy.com
+http://www.dfxx.com.cn
+http://www.zzlgxy.net
+http://www.xccvc.com
+http://www.zcib.edu.cn
+http://www.xlxy.net
+http://www.sqmc.edu.cn
+http://www.hrxy.edu.cn
+http://www.chenggong.edu.cn
+http://www.pdsjyxy.com
+http://www.hamc.com.cn
+http://www.kfie.cn
+http://www.haie.edu.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.hfut.edu.cn
+http://www.ustc.edu.cn
+http://www.ahu.edu.cn
+http://www.aust.edu.cn
+http://www.ahut.edu.cn
+http://www.ahau.edu.cn
+http://www.ahmu.edu.cn
+http://www.ahnu.edu.cn
+http://www.aufe.edu.cn
+http://www.auts.edu.cn
+http://www.hbcnc.edu.cn
+http://www.aiai.edu.cn
+http://www.ahtcm.edu.cn
+http://www.wnmc.edu.cn
+http://www.hftc.edu.cn
+http://www.bbmc.edu.cn
+http://www.fync.edu.cn
+http://www.ahstu.edu.cn
+http://www.aqtc.edu.cn
+http://www.hnnu.edu.cn
+http://www.axhu.cn
+http://www.chtc.edu.cn
+http://www.ahsztc.edu.cn
+http://www.hsu.edu.cn
+http://www.wxc.edu.cn
+http://www.chzu.edu.cn
+http://www.tlc.edu.cn
+http://www.hfuu.edu.cn
+http://www.bbxy.edu.cn
+http://www.czu.edu.cn
+http://www.sanlian.net.cn
+http://www.aflc.com.cn
+http://www.wendaedu.com.cn
+http://www.massz.cn
+http://www.ahyz.cn
+http://www.ahzyygz.com
+http://www.bznc.net.cn
+http://www.tcsfgz.cn
+http://www.aqyyz.cn
+http://www.hfys.com.cn
+http://www.ahsdxy.ah.edu.cn
+http://www.whptu.ah.cn
+http://www.tlpt.net.cn
+http://www.ahjgxy.com
+http://www.hnvtc.ah.edu.cn
+http://www.abc.edu.cn
+http://www.hnuu.edu.cn
+http://www.hbvtc.net
+http://www.ahwbedu.net
+http://www.ahtu.ah.cn
+http://www.amtc.cn
+http://www.ahlyxy.cn
+http://www.ahyky.com
+http://www.czgz.cn
+http://www.ahsjxy.cn
+http://www.ahcbxy.cn
+http://www.ahip.cn
+http://www.ahptc.cn
+http://www.aftvc.com
+http://www.ahiib.com
+http://www.fyzy.net
+http://www.ahgmedu.cn
+http://www.anhky.com
+http://www.hftyxy.com
+http://www.ahctc.com
+http://www.avceit.cn
+http://www.aepu.com.cn
+http://www.hfet.com
+http://www.ahty.net
+http://www.szzy.ah.cn
+http://www.fky.net.cn
+http://www.ahgf.com.cn
+http://www.lvtc.edu.cn
+http://www.artah.cn
+http://www.aqvtc.cn
+http://www.ahiec.net
+http://www.chzy.org
+http://www.acac.cn
+http://www.bzvtc.com
+http://www.ahgaxy.com.cn
+http://www.ahbvc.cn
+http://www.czc.net.cn
+http://www.xcvtc.edu.cn
+http://www.hffe.cn
+http://www.ahcme.cn
+http://www.cmoc.cn
+http://www.bjy.ah.cn
+http://www.lhub.cn
+http://www.ahaec-edu.cn
+http://www.mastc.edu.cn
+http://www.huishangedu.cn
+http://www.ahlyedu.cn
+http://www.hfbhxy.com
+http://www.hfitu.cn
+http://www.ahmodern.cn
+http://www.czcvc.net
+http://www.hszyxy.com
+http://www.jacedu.cn
+http://www.wxwsxy.cn
+http://www.ahujhc.cn
+http://www.hbcnc.edu.cn
+http://www.aiai.edu.cn
+http://www.auts.edu.cn
+http://www.hhuwtian.edu.cn
+http://www.ahsa.edu.cn
+http://www.ahsa.edu.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.ncu.edu.cn
+http://www.jxust.cn
+http://www.ecjtu.jx.cn
+http://www.jxau.edu.cn
+http://www.jxnu.edu.cn
+http://www.jxufe.edu.cn
+http://www.ecit.edu.cn
+http://www.nchu.edu.cn
+http://www.jci.edu.cn
+http://www.nit.edu.cn
+http://www.nclg.com.cn
+http://www.jxtcmi.com
+http://www.gmu.cn
+http://www.sru.jx.cn
+http://www.gnnu.cn
+http://www.jxstnu.cn
+http://www.jgsu.edu.cn
+http://www.jxbsu.com
+http://www.jju.edu.cn
+http://www.ycu.jx.cn
+http://www.xyc.edu.cn
+http://www.jxga.com
+http://www.fuzhuang.com.cn
+http://www.ncgxy.com
+http://www.jjvu.jx.cn
+http://www.jxtcms.net
+http://www.pxc.jx.cn
+http://www.jcc.jx.cn
+http://www.jvtc.jx.cn
+http://www.jxgzy.cn
+http://www.nctc.com.cn
+http://www.jxkeda.com
+http://www.aheadedu.com
+http://www.jiea.cn
+http://www.jxyyxy.com
+http://www.fzjsxy.com
+http://www.ycvc.jx.cn
+http://www.jxswkj.com
+http://www.jxcfs.com
+http://www.jxgmxy.com
+http://www.ygcollege.com
+http://www.dlzy.jx.sgcc.com.cn
+http://www.jxhjxy.com
+http://www.jhxy.com.cn
+http://www.jxaevc.gov.cn
+http://www.jxqy.com.cn
+http://www.jxjsxy.com
+http://www.jxgcxy.com
+http://www.jxdy.com
+http://www.jxmtc.com
+http://www.srzy.cn
+http://www.jxcsedu.com
+http://www.ganxidx.com
+http://www.jxlsxy.com
+http://www.jxjdxy.com
+http://www.jxgymy.com
+http://www.jxcia.com
+http://www.jxjtxy.com
+http://www.jxhlxy.com.cn
+http://www.jxgcxy.net
+http://www.jxxdxy.com
+http://www.jxytxy.com.cn
+http://www.jxatei.net
+http://www.jxvc.jx.cn
+http://www.jxysedu.com
+http://www.tellhowedu.com
+http://www.tynxy.com
+http://www.fenglin.org
+http://www.jxglzyxy.net
+http://www.jxcb.com
+http://www.jxyjxy.com
+http://www.ndkj.com.cn
+http://www.ncsxy.com
+http://www.ecjtuit.com.cn
+http://www.asc.jx.cn
+http://www.nckjxy.cn
+http://www.jxtcmstc.com
+http://www.gnsyky.cn
+http://www.jci-ky.cn
+http://www.jxstnupi.cn
+http://www.ndgy.net
+http://www.sryx.cn
+http://www.jxie.cn
+http://www.ncjyxy.cn
+http://www.gnjyxy.com
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.fudan.edu.cn
+http://www.tongji.edu.cn
+http://www.sjtu.edu.cn
+http://www.ecust.edu.cn
+http://www.dhu.edu.cn
+http://www.ecnu.edu.cn
+http://www.shisu.edu.cn
+http://www.shufe.edu.cn
+http://www.shu.edu.cn
+http://www.usst.edu.cn
+http://www.shmtu.edu.cn
+http://www.sues.edu.cn
+http://www.shfu.edu.cn
+http://www.shutcm.com
+http://www.shnu.edu.cn
+http://www.ecupl.edu.cn
+http://www.gench.com.cn
+http://www.shupl.edu.cn
+http://www.sit.edu.cn
+http://www.shspu.edu.cn
+http://www.sdju.edu.cn
+http://www.shiep.edu.cn
+http://www.shift.edu.cn
+http://www.shfc.edu.cn
+http://www.lixin.edu.cn
+http://www.sus.edu.cn
+http://www.shcmusic.edu.cn
+http://www.sta.edu.cn
+http://www.sbs.edu.cn
+http://www.sandau.edu.cn
+http://www.smic.edu.cn
+http://www.sppc.edu.cn
+http://www.sihs.cn
+http://www.shpc.edu.cn
+http://www.shfilmart.com
+http://www.xq.sh.cn
+http://www.esu.edu.cn
+http://www.stiei.edu.cn
+http://www.gymy.cn
+http://www.lidapoly.com
+http://www.shjgxy.com
+http://www.scp.edu.cn
+http://www.sicfl.edu.cn
+http://www.sma.edu.cn
+http://www.scst.sh.cn
+http://www.shumc.edu.cn
+http://www.aurora-college.cn
+http://www.zhonghuacollege.com
+http://www.shxj.cn
+http://www.shghxyedu.net
+http://www.etop.com.cn
+http://www.shbangde.com
+http://www.shafc.edu.cn
+http://www.shzq.edu.cn
+http://www.shsipo.com
+http://www.shouhua.net.cn
+http://www.ssi.edu.cn
+http://www.min-yuan.com
+http://www.shjf.com
+http://www.shzgyxy.cn
+http://www.sthu.cn
+http://www.xdsisu.edu.cn
+http://www.siva.edu.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.nju.edu.cn
+http://www.seu.edu.cn
+http://www.cumt.edu.cn
+http://www.hhu.edu.cn
+http://www.sytu.edu.cn
+http://www.njau.edu.cn
+http://www.cpu.edu.cn
+http://www.njust.edu.cn
+http://www.nuaa.edu.cn
+http://www.suda.edu.cn
+http://www.yzu.edu.cn
+http://www.ujs.edu.cn
+http://www.njupt.edu.cn
+http://www.just.edu.cn
+http://www.njut.edu.cn
+http://www.njfu.edu.cn
+http://www.njmu.edu.cn
+http://www.njutcm.edu.cn
+http://www.njnu.edu.cn
+http://www.xznu.edu.cn
+http://www.njue.edu.cn
+http://www.ntu.edu.cn
+http://www.jpu.edu.cn
+http://www.xjtlu.edu.cn
+http://www.nuist.edu.cn
+http://www.hyit.edu.cn
+http://www.xzit.edu.cn
+http://www.hhit.edu.cn
+http://www.czu.cn
+http://www.ycit.cn
+http://www.jit.edu.cn
+http://www.njit.edu.cn
+http://www.xzmc.edu.cn
+http://www.jstu.edu.cn
+http://www.hytc.edu.cn
+http://www.njxzc.edu.cn
+http://www.yctc.edu.cn
+http://www.usts.edu.cn
+http://www.nau.edu.cn
+http://www.jspi.cn
+http://www.nipes.cn
+http://www.njarti.edu.cn
+http://www.cslg.cn
+http://www.sju.js.cn
+http://www.forestpolice.net
+http://www.thxy.org
+http://www.lygsf.net.cn
+http://www.tzsz.net
+http://www.zjc.edu.cn
+http://www.xzyz.edu.cn
+http://www.jsahvc.edu.cn
+http://www.nttec.edu.cn
+http://www.niit.edu.cn
+http://www.jscpu.com
+http://www.tzpc.edu.cn
+http://www.ntsc.edu.cn
+http://www.xzcat.edu.cn
+http://www.wxit.edu.cn
+http://www.mdut.cn
+http://www.szit.edu.cn
+http://www.sgmart.com
+http://www.yzpc.edu.cn
+http://www.jssvc.edu.cn
+http://www.lygtc.net.cn
+http://www.jscvc.cn
+http://www.gist.edu.cn
+http://www.jypc.org
+http://www.zscollege.com
+http://www.hcit.edu.cn
+http://www.njci.cn
+http://www.jssmu.edu.cn
+http://www.sqc.edu.cn
+http://www.szitu.cn
+http://www.jsfsc.edu.cn
+http://www.thcyzy.org
+http://www.jmi.edu.cn
+http://www.jseti.edu.cn
+http://www.njcit.cn
+http://www.czie.net
+http://www.czili.edu.cn
+http://www.xzcit.cn
+http://www.jsafc.net
+http://www.jsit.edu.cn
+http://www.hkuspace.edu.cn
+http://www.dyc.edu.cn
+http://www.jltu.net
+http://www.sipivt.edu.cn
+http://www.szjm.edu.cn
+http://www.czmec.cn
+http://www.jhu.cn
+http://www.njcc.edu.cn
+http://www.jsycmc.com
+http://www.ccit.js.cn
+http://www.zdxy.cn
+http://www.yhust.edu.cn
+http://www.jznu.com.cn
+http://www.wxcsxy.com
+http://www.wxgyxy.cn
+http://www.wjxvtc.cn
+http://www.jscjxy.cn
+http://www.yctei.cn
+http://www.cztgi.edu.cn
+http://www.njrts.edu.cn
+http://www.siit.cn
+http://www.jinshan-cn.com
+http://www.zlvc.edu.cn
+http://www.jku.edu.cn
+http://www.juti.cn
+http://www.jnys.cn
+http://www.czjdu.com
+http://www.szetop.com
+http://www.ntvc.edu.cn
+http://www.ytc.edu.cn
+http://www.wxstc.cn
+http://www.ntac.edu.cn
+http://www.yzerc.org
+http://www.ypi.edu.cn
+http://www.njcmee.net
+http://www.szai.com
+http://www.niva.cn
+http://www.szmtc.com
+http://www.njty.edu.cn
+http://www.wsoc.com.cn
+http://www.usl.edu.cn
+http://www.siso.edu.cn
+http://www.zdct.cn
+http://www.cucn.edu.cn
+http://www.njusttz.edu.cn
+http://www.njnutz.com
+http://www.bjxy.cn
+http://www.jseea.cn
+http://www.jsggy.net
+http://www.ncppm.edu.cn
+http://www.jsie.edu.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.zju.edu.cn
+http://www.nbu.edu.cn
+http://www.zjut.edu.cn
+http://www.hdu.edu.cn
+http://www.zist.edu.cn
+http://www.zjtcm.net
+http://www.zjnu.edu.cn
+http://www.hznu.edu.cn
+http://www.hzic.edu.cn
+http://www.nottingham.edu.cn
+http://www.wzu.edu.cn
+http://www.zjfc.edu.cn
+http://www.dhyedu.com
+http://www.yxc.cn
+http://www.zjxu.edu.cn
+http://www.cjlu.edu.cn
+http://www.zust.edu.cn
+http://www.nbut.cn
+http://www.zjou.net.cn
+http://www.wzmc.net
+http://www.hutc.zj.cn
+http://www.zscas.edu.cn
+http://www.tzc.edu.cn
+http://www.zjicm.edu.cn
+http://www.zufe.edu.cn
+http://www.zjjcxy.cn
+http://www.caa.edu.cn
+http://www.zjsru.cn
+http://www.zjwu.net
+http://www.hjgz.net
+http://www.lsxy.com
+http://www.qzu.zj.cn
+http://www.zisu.edu.cn
+http://www.zjwchc.com
+http://www.zjmc.net.cn
+http://www.zjpc.net.cn
+http://www.jhc.cn
+http://www.nbptweb.net
+http://www.wzvtc.cn
+http://www.zjvtit.edu.cn
+http://www.zjfc.com.cn
+http://www.hzaspt.edu.cn
+http://www.hzvtc.net
+http://www.tczj.net
+http://www.tzvtc.com
+http://www.zjitc.net
+http://www.zjipc.com
+http://www.wxpoly.cn
+http://www.zjbti.net.cn
+http://www.zjtie.edu.cn
+http://www.zime.edu.cn
+http://www.qzct.net
+http://www.zjdfc.com
+http://www.ywu.cn
+http://www.jxnyc.net
+http://www.nbcccj.com
+http://www.zjcs.net.cn
+http://www.zjevtc.cn
+http://www.zjtongji.edu.cn
+http://www.zptc.cn
+http://www.tzvcst.net
+http://www.wzvcst.cn
+http://www.sxvtc.com
+http://www.zjczxy.cn
+http://www.geelyedu.com
+http://www.zjff.net
+http://www.zimc.cn
+http://www.zjjy.com.cn
+http://www.zjjy.net
+http://www.hzvtc.edu.cn
+http://www.nbchs.net
+http://www.zjvcc.edu.cn
+http://www.zjyyc.com
+http://www.jxvtc.net
+http://www.zjhyxy.net
+http://www.guangshaxy.com
+http://www.lszjy.com
+http://www.zjiet.edu.cn
+http://www.zj-art.com
+http://www.zucc.edu.cn
+http://www.nit.net.cn
+http://www.zjc.zjut.edu.cn
+http://www.ndkjxy.net.cn
+http://www.ky.zstu.edu.cn
+http://www.wzmc.net
+http://www.ypcol.com
+http://www.ojc.zj.cn
+http://www.zufedfc.edu.cn
+http://www.wucc.cn
+http://www.tjzj.edu.cn
+http://www.shufe-zj.edu.cn
+http://www.nbei.net
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.sdu.edu.cn
+http://www.ouc.edu.cn
+http://www.upc.edu.cn
+http://www.qdu.edu.cn
+http://www.sdust.edu.cn
+http://www.sdut.edu.cn
+http://www.lcu.edu.cn
+http://www.ytu.edu.cn
+http://www.qust.edu.cn
+http://www.qtech.edu.cn
+http://www.ujn.edu.cn
+http://www.sdai.edu.cn
+http://www.sdau.edu.cn
+http://www.sdutcm.edu.cn
+http://www.sdnu.edu.cn
+http://www.qfnu.edu.cn
+http://www.ldu.edu.cn
+http://www.qau.edu.cn
+http://www.sdili.edu.cn
+http://www.sdjtu.edu.cn
+http://www.wfmc.edu.cn
+http://www.tsmc.edu.cn
+http://www.bzmc.edu.cn
+http://www.jnmc.edu.cn
+http://www.lyu.edu.cn
+http://www.sdupsl.edu.cn
+http://www.wfu.edu.cn
+http://www.dzu.edu.cn
+http://www.sdie.edu.cn
+http://www.oucqdc.edu.cn
+http://www.sdibt.edu.cn
+http://www.sdpc.edu.cn
+http://www.sdpei.edu.cn
+http://www.sdca.edu.cn
+http://www.sdada.edu.cn
+http://www.hezeu.edu.cn
+http://www.binhaicollege.com
+http://www.nanshan.edu.cn
+http://www.bzu.edu.cn
+http://www.uzz.edu.cn
+http://www.tsu.edu.cn
+http://www.jnxy.edu.cn
+http://www.wjmu.net
+http://www.wfkjxy.com.cn
+http://www.ycxy.com
+http://www.qlnu.edu.cn
+http://www.sdyu.edu.cn
+http://www.sdwu.edu.cn
+http://www.sdxiehe.com
+http://www.huanghaicollege.com
+http://www.oucqdc.edu.cn
+http://www.stcmchina.com
+http://www.zbnc.edu.cn
+http://www.sdwrp.com
+http://www.sepc.edu.cn
+http://www.hzmc.edu.cn
+http://www.sdmc.net.cn
+http://www.sdjnys.com
+http://www.sdmyxy.cn
+http://www.sict.edu.cn
+http://www.lwvc.net
+http://www.qtc.edu.cn
+http://www.jnzjxy.com.cn
+http://www.sdlvtc.cn
+http://www.fareast-edu.net
+http://www.weihaicollege.com
+http://www.rzpt.cn
+http://www.lctvu.sd.cn
+http://www.6789.com.cn
+http://www.svict.com
+http://www.dyxy.net
+http://www.sdwfvc.com
+http://www.ytvc.com.cn
+http://www.sdzy.com.cn
+http://www.edubzvc.com.cn
+http://www.sdp.edu.cn
+http://www.dzkjqd.edu.cn
+http://www.qdqs.com
+http://www.mtotc.com.cn
+http://www.sddfvc.cn
+http://www.jnvc.edu.cn
+http://www.sdcjxy.com
+http://www.ytqcvc.cn
+http://www.sdsfjy.com
+http://www.sdbi.com.cn
+http://www.silkedu.com
+http://www.sdts.net.cn
+http://www.wsfy.cn
+http://www.sdflc.com
+http://www.sdhyxy.com
+http://www.cestar.com
+http://www.sdcet.cn
+http://www.qledu.net
+http://www.sdivc.net.cn
+http://www.shlzhj.net
+http://www.qdgw.com
+http://www.feiyangcollege.com
+http://www.sdjtzyxy.com
+http://www.sdcit.cn
+http://www.sdftcollege.com.cn
+http://www.qchm.edu.cn
+http://www.uxd.com.cn
+http://www.jngcxy.com
+http://www.zbvc.cn
+http://www.sdecu.com
+http://www.sdcivc.com
+http://www.suu.com.cn
+http://www.sdxlxy.com
+http://www.wfgsxy.com
+http://www.sdlgzy.com
+http://www.dzvtc.cn
+http://www.sdkevin.cn
+http://www.zzkjxy.com
+http://www.dwcollege.net
+http://www.ytetc.edu.cn
+http://www.sdslvc.com
+http://www.hzjzxy.com
+http://www.sdzzvc.cn
+http://www.lyzyxy.com
+http://www.sdcmc.net
+http://www.coscoqmc.com.cn
+http://www.sdcivc.com
+http://www.pusc.cn
+http://www.qdc.cn
+http://www.hdxy.org
+http://www.sdor.cn
+http://www.lsxy.sdnu.edu.cn
+http://www.lcudc.cn
+http://www.sdai.gov.cn
+http://www.sdngy.edu.cn
+http://www.sdtuc.com.cn
+http://www.wfec.cn
+http://www.lcjyxy.com
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.xmu.edu.cn
+http://www.hqu.edu.cn
+http://www.fafu.edu.cn
+http://www.jmu.edu.cn
+http://www.fzu.edu.cn
+http://www.yeu.edu.cn
+http://www.fjmu.edu.cn
+http://www.fjtu.edu.cn
+http://www.fjtcm.edu.cn
+http://www.xmut.edu.cn
+http://www.fjut.edu.cn
+http://www.qztc.edu.cn
+http://www.fjzs.edu.cn
+http://www.lyun.edu.cn
+http://www.mju.edu.cn
+http://www.smc.edu.cn
+http://www.nptc.edu.cn
+http://www.fjpsc.edu.cn
+http://www.mnust.cn
+http://www.fjjxxy.cn
+http://www.ndsy.cn
+http://www.fzfu.com
+http://www.qzygz.com
+http://www.zcvc.cn
+http://www.fjcc.edu.cn
+http://www.xmmc.com.cn
+http://www.qzys.net
+http://www.hxxy.edu.cn
+http://www.fjzzy.org
+http://www.hnwomen.com.cn
+http://www.qzfzfz.com
+http://www.fjcpc.edu.cn
+http://www.fzacc.com
+http://www.lmu.cn
+http://www.xmcu.cn
+http://www.fjyszyxy.com
+http://www.fjvcb.cn
+http://www.dhcc.cc
+http://www.xmxc.com
+http://www.fzrjxy.com
+http://www.fjipe.cn
+http://www.huaguang.org
+http://www.fvti.cn
+http://www.qzit.edu.cn
+http://www.smvtc.com
+http://www.qziedu.cn
+http://www.mxdx.net
+http://www.mbu.cn
+http://www.hxcollege.com
+http://www.fjjgxy.com
+http://www.fibec.cn
+http://www.fjmzw.com
+http://www.qzjmc.cn
+http://www.fzstc.com
+http://www.fzlmxy.cn
+http://www.xmyanyi.com
+http://www.xmht.com
+http://www.xmstc.cn
+http://www.xmoc.cn
+http://www.fjny.com
+http://www.fjlzy.com
+http://www.fjdy.net
+http://www.mitu.cn
+http://www.fjsdxy.com
+http://www.xnanyang.com
+http://www.wyszyxy.com
+http://www.ndgzy.com
+http://www.xmdh.com
+http://www.zzyhxy.com
+http://www.tftc.edu.cn
+http://www.fjwx.com.cn
+http://www.zzlg.org
+http://www.xmafkj.com
+http://www.qztmi.cn
+http://www.qzqgxy.com
+http://www.fafuoc.com
+http://www.mnkjxy.com
+http://www.xithqu.com
+http://www.fdzcxy.com
+http://www.fjjyxy.com
+http://www.fzjyxy.com
+http://www.fjjyxy.com
+http://www.fzjyxy.com
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.pku.edu.cn
+http://www.ruc.edu.cn
+http://www.tsinghua.edu.cn
+http://www.njtu.edu.cn
+http://www.ustb.edu.cn
+http://www.cup.edu.cn
+http://www.cumtb.edu.cn
+http://www.cugb.edu.cn
+http://www.bupt.edu.cn
+http://www.ncepu.edu.cn
+http://www.buct.edu.cn
+http://www.cau.edu.cn
+http://www.bjfu.edu.cn
+http://www.bucm.edu.cn
+http://www.bnu.edu.cn
+http://www.bfsu.edu.cn
+http://www.blcu.edu.cn
+http://www.uibe.edu.cn
+http://www.cufe.edu.cn
+http://www.cupl.edu.cn
+http://www.muc.edu.cn
+http://www.cppsu.edu.cn
+http://www.cams.ac.cn
+http://www.bsu.edu.cn
+http://www.bit.edu.cn
+http://www.buaa.edu.cn
+http://www.bistu.edu.cn
+http://www.btbu.edu.cn
+http://www.buu.edu.cn
+http://www.bjut.edu.cn
+http://www.ncut.edu.cn
+http://www.ccmu.edu.cn
+http://www.cnu.edu.cn
+http://www.cueb.edu.cn
+http://www.cuc.edu.cn
+http://www.uir.cn
+http://www.cafa.edu.cn
+http://www.chntheatre.edu.cn
+http://www.ccom.edu.cn
+http://www.besti.edu.cn
+http://www.cfau.edu.cn
+http://www.ciir.edu.cn
+http://www.cyu.edu.cn
+http://www.cwu.edu.cn
+http://www.bucea.edu.cn
+http://www.bift.edu.cn
+http://www.bigc.edu.cn
+http://www.bipt.edu.cn
+http://www.sgit.edu.cn
+http://www.bac.edu.cn
+http://www.cipe.net.cn
+http://www.bisu.edu.cn
+http://www.bwu.edu.cn
+http://www.ccmusic.edu.cn
+http://www.bda.edu.cn
+http://www.nacta.edu.cn
+http://www.bfa.edu.cn
+http://www.bcu.edu.cn
+http://www.bjypc.edu.cn
+http://www.bgy.org.cn
+http://www.bjjsy1985.cn
+http://www.dky.bjedu.cn
+http://www.bitc.edu.cn
+http://www.bgeelyu.com
+http://www.bvca.edu.cn
+http://www.5aaa.com
+http://www.pfc.edu.cn
+http://www.moderncollege.com.cn
+http://www.biem.edu.cn
+http://www.bjczy.edu.cn
+http://www.bcpl.cn
+http://www.jtxy.com.cn
+http://www.ymyu.com
+http://www.hju.net.cn
+http://www.bjpldx.edu.cn
+http://www.bjxx.com.cn
+http://www.jbzy.com.cn
+http://www.bvclss.cn
+http://www.bjtzhy.org
+http://www.csuedu.com
+http://www.bjjtxx.com
+http://www.tangedu.cn
+http://www.bhi.edu.cn
+http://www.ccbupt.cn
+http://www.kdcnu.com
+http://www.canvard.com.cn
+http://www.gengdan.cn
+http://www.ustbyq.com
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.nankai.edu.cn
+http://www.tju.edu.cn
+http://www.cauc.edu.cn
+http://www.tjpu.edu.cn
+http://www.tuli.edu.cn
+http://www.tjut.edu.cn
+http://www.tijmu.edu.cn
+http://www.tjutcm.edu.cn
+http://www.tjnu.edu.cn
+http://www.tjufe.edu.cn
+http://www.tjcu.edu.cn
+http://www.hebut.edu.cn
+http://www.tjuci.edu.cn
+http://www.tjac.edu.cn
+http://www.tjfsu.edu.cn
+http://www.tute.edu.cn
+http://www.tjus.edu.cn
+http://www.tjcm.edu.cn
+http://www.tjarts.edu.cn
+http://www.tianshi.edu.cn
+http://www.tjyzh.cn
+http://www.suoyuan.com.cn
+http://www.xdxy.com.cn
+http://www.tjlivtc.edu.cn
+http://www.tjtc.edu.cn
+http://www.tjbpi.com
+http://www.tjjingyuan.cn
+http://www.tjbhzy.net.cn
+http://www.tjeti.com
+http://www.tjdz.net
+http://www.tjchengjian.com
+http://www.tjgbys.com
+http://www.tjgsxy.com.cn
+http://www.tjhyzyxy.com
+http://www.zdtj.cn
+http://www.tjsyxy.com
+http://www.tjysxy.com
+http://www.tjcsxy.cn
+http://www.tjbio.cn
+http://www.tjmvti.cn
+http://www.gmtj.com
+http://www.tjtdxy.cn
+http://www.tjtvc.com
+http://www.tifert.edu.cn
+http://www.tjqnzyxy.cn
+http://www.tedazj.com
+http://www.tjtwy.cn
+http://www.boustead.edu.cn
+http://www.tijmu.edu.cn
+http://www.jinguxy.cn
+http://www.tjzhic.com
+http://www.tjrac.edu.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.w3.org
+http://www.feelingmsg.com
+http://www.miitbeian.gov.cnanquan.org
+http://www.jlu.edu.cn
+http://www.nenu.edu.cn
+http://www.ybu.edu.cn
+http://www.beihua.edu.cn
+http://www.ccu.edu.cn
+http://www.cust.edu.cn
+http://www.ccut.edu.cn
+http://www.jlau.edu.cn
+http://www.ccucm.edu.cn
+http://www.jlnu.edu.cn
+http://www.nedu.edu.cn
+http://www.ctu.cc.jl.cn
+http://www.ccit.edu.cn
+http://www.jliae.edu.cn
+http://www.jlict.edu.cn
+http://www.jlnku.com
+http://www.jlmpc.cn
+http://www.jltiet.net
+http://www.thnu.edu.cn
+http://www.bcsfxy.com
+http://www.cncnc.edu.cn
+http://www.hqwy.com
+http://www.jlbtc.edu.cn
+http://www.jlty.com.cn
+http://www.jlart.edu.cn
+http://www.jldh.com.cn
+http://www.jljcxy.com
+http://www.jladi.com
+http://www.bcyz.cn
+http://www.caii.edu.cn
+http://www.cmcedu.com
+http://www.cjgz.edu.cn
+http://www.jlsppc.cn
+http://www.jjtc.com.cn
+http://www.dfzyxy.edu.cn
+http://www.lyvtc.cn
+http://www.cbsvtc.com.cn
+http://www.jlsfjy.cn
+http://www.sypt.cn
+http://www.cvit.com.cn
+http://www.jlnyxy.com.cn
+http://www.jvcit.edu.cn
+http://www.jltc.edu.cn
+http://www.citpc.net
+http://www.jtpt.cn
+http://www.bcvit.cn
+http://www.jilinkj.com
+http://www.jlucc.net
+http://www.ccughc.net
+http://www.ccutchi.com
+http://www.csoei.com
+http://www.iecctc.com
+http://www.jlaudev.com.cn
+http://www.chsnenu.edu.cn
+http://www.bdxy.com.cn
+http://www.cctourcollege.com
+http://www.jledu.net
+http://www.jemcc.net
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.dlut.edu.cn
+http://www.neu.edu.cn
+http://www.dlmu.edu.cn
+http://www.lnu.edu.cn
+http://www.dlu.edu.cn
+http://www.syu.edu.cn
+http://www.syit.edu.cn
+http://www.lntu.edu.cn
+http://www.sut.edu.cn
+http://www.sjzu.edu.cn
+http://www.lnpu.edu.cn
+http://www.djtu.edu.cn
+http://www.ustl.edu.cn
+http://www.lnit.edu.cn
+http://www.dlpu.edu.cn
+http://www.syau.edu.cn
+http://www.cmu.edu.cn
+http://www.dlmedu.edu.cn
+http://www.lnutcm.edu.cn
+http://www.syphu.edu.cn
+http://www.lnnu.edu.cn
+http://www.synu.edu.cn
+http://www.bhu.edu.cn
+http://www.dufe.edu.cn
+http://www.syuct.edu.cn
+http://www.sau.edu.cn
+http://www.dlfu.edu.cn
+http://www.dlnu.edu.cn
+http://www.ccpc.edu.cn
+http://www.syce.edu.cn
+http://www.lnist.edu.cn
+http://www.neusoft.edu.cn
+http://www.lnmu.edu.cn
+http://www.symc.edu.cn
+http://www.asnc.edu.cn
+http://www.dlufl.edu.cn
+http://www.lncmxy.com
+http://www.syty.edu.cn
+http://www.lumei.edu.cn
+http://www.sycm.com.cn
+http://www.dac.edu.cn
+http://www.ldxy.cn
+http://www.luibe.edu.cn
+http://www.dist.edu.cn
+http://www.lncc.edu.cn
+http://www.tlsz.com.cn
+http://www.jzsz.com.cn
+http://www.fstc.cn
+http://www.cysz.com.cn
+http://www.lnpc.cn
+http://www.fxgz.com.cn
+http://www.dlvtc.edu.cn
+http://www.fvti.com
+http://www.ykdx.net
+http://www.lnnzy.ln.cn
+http://www.dbiedu.com
+http://www.pjzy.net.cn
+http://www.bhcy.cn
+http://www.419.com.cn
+http://www.lnxxxy.com
+http://www.lnfvc.cn
+http://www.lnpc.edu.cn
+http://www.lnemci.com
+http://www.lndhdx.com
+http://www.lnmec.net.cn
+http://www.lntzy.com
+http://www.neusoft.edu.cn
+http://www.xzzsks.com.cn
+http://www.lnjzxy.com
+http://www.ggxy.com
+http://www.lnen.cn
+http://www.vtcsy.com
+http://www.dlrj.edu.cn
+http://www.dltcedu.org
+http://www.lnsmzy.edu.cn
+http://www.dlxgjy.com
+http://www.lndzxy.com
+http://www.ltcem.com
+http://www.lnvc.cn
+http://www.lnlzy.cn
+http://www.dlzbzzedu.com
+http://www.dlqcxy.com
+http://www.lnxdfwxy.com
+http://www.dlsc.net.cn
+http://www.fzcollege.org
+http://www.syhzy.cn
+http://www.cnpc.com.cn
+http://www.lncjxy.com
+http://www.lngczyxy.com
+http://www.lnyj.net
+http://www.lntlhc.com
+http://www.lzygzy-edu.com
+http://www.sdkj-syu.net
+http://www.kingbridge.net
+http://www.caie.org
+http://www.cmu.edu.cn
+http://www.lnshny.com
+http://www.sjcy.cn
+http://www.syau.edu.cn
+http://www.syyyy.com.cn
+http://www.dmuzs.edu.cn
+http://www.syuctky.edu.cn
+http://www.lacpj.com
+http://www.lnen.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.xjtu.edu.cn
+http://www.chd.edu.cn
+http://www.xidian.edu.cn
+http://www.nwsuaf.edu.cn
+http://www.snnu.edu.cn
+http://www.nwpu.edu.cn
+http://www.nwu.edu.cn
+http://www.yau.edu.cn
+http://www.xaut.edu.cn
+http://www.xauat.edu.cn
+http://www.xust.edu.cn
+http://www.xapi.edu.cn
+http://www.xpu.edu.cn
+http://www.xatu.cn
+http://www.xisu.edu.cn
+http://www.sust.edu.cn
+http://www.xiyou.edu.cn
+http://www.sntcm.edu.cn
+http://www.xiyi.edu.cn
+http://www.wntc.edu.cn
+http://www.yulinu.edu.cn
+http://www.snut.edu.cn
+http://www.xysfxy.cn
+http://www.bjwlxy.cn
+http://www.xaufe.edu.cn
+http://www.nwupl.cn
+http://www.xaipe.edu.cn
+http://www.xafa.edu.cn
+http://www.xacom.edu.cn
+http://www.xijing.com.cn
+http://www.xawl.org
+http://www.aku.edu.cn
+http://www.peihua.cn
+http://www.eurasia.edu
+http://www.xaiu.edu.cn
+http://www.xfuedu.org
+http://www.slxy.cn
+http://www.xasyu.cn
+http://www.csiic.com
+http://www.sxfu.org
+http://www.xihangzh.com
+http://www.xaepi.edu.cn
+http://www.ylvtc.cn
+http://www.sxpi.com.cn
+http://www.yt-edu.cn
+http://www.ak321.com
+http://www.xatzy.cn
+http://www.sxjgy.com
+http://www.xianyangzhiyuan.cn
+http://www.xzyedu.com.cn
+http://www.slzyjsxy.com
+http://www.hzvtc.cn
+http://www.xahtxy.cn
+http://www.wnzy.net
+http://www.sptc.sn.cn
+http://www.tczyxy.net
+http://www.sxqzy.com
+http://www.snbcedu.cn
+http://www.sxetcedu.com
+http://www.sncook.com
+http://www.atc168.com
+http://www.yapt.cn
+http://www.gfxy.com
+http://www.xhtu.com.cn
+http://www.sanziedu.com
+http://www.xihang.com.cn
+http://www.spvec.com.cn
+http://www.sxny.cn
+http://www.scct.cn
+http://www.bjvtc.com
+http://www.sxhkxy.com
+http://www.sxri.net
+http://www.xikemao.com
+http://www.sxitu.com
+http://www.sxjgxy.edu.cn
+http://www.sxptife.net
+http://www.xagdyz.com
+http://www.ylsmvtc.com
+http://www.xjtucc.cn
+http://www.xdxd.cn
+http://www.xauat-hqc.com
+http://www.xcxz.com.cn
+http://www.kdhj-edu.net
+http://www.bxait.cn
+http://www.xacxxy.com
+http://www.xdca.com.cn
+http://www.npumd.cn
+http://www.gx-xust.com
+http://www.chdxhxy.com
+http://www.xthtc.com
+http://www.sxgyxy.com
+http://www.htzd.org
+http://www.sfygxy.com
+http://www.xfgxy.com.cn
+http://www.xtzd.cn
+http://www.sjzdedu.com
+http://www.snie.edu.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.sxu.edu.cn
+http://www.tyut.edu.cn
+http://www.nuc.edu.cn
+http://www.tyust.edu.cn
+http://www.sxau.edu.cn
+http://www.sxmu.edu.cn
+http://www.sxnu.edu.cn
+http://www.sxdtdx.edu.cn
+http://www.sxufe.edu.cn
+http://www.tit.edu.cn
+http://www.sxtcm.com
+http://www.czmc.com
+http://www.ycu.edu.cn
+http://www.xztc.edu.cn
+http://www.tynu.edu.cn
+http://www.sxjztc.edu.cn
+http://www.czc.edu.cn
+http://www.llhc.edu.cn
+http://www.sxtbu.net
+http://www.sxuec.edu.cn
+http://www.sxycys.com
+http://www.sxftc.edu.cn
+http://www.sxpu.com.cn
+http://www.sxtyu.com
+http://www.sxatc.com
+http://www.sxqgzy.cn
+http://www.ycptu.edu.cn
+http://www.sxjt.edu.cn
+http://www.sxmtxy.com.cn
+http://www.dtmtxy.cn
+http://www.tyutyqc.edu.cn
+http://www.sxgy.cn
+http://www.sxyz.com
+http://www.sxxh.org
+http://www.lfvtc.cn
+http://www.dlxy.sx.sgcc.com.cn
+http://www.xzvtc.com
+http://www.vcit.cn
+http://www.czzy.cn
+http://www.sxglzyxy.com.cn
+http://www.sxtvi.com.cn
+http://www.sxjczy.com.cn
+http://www.sxpolice.cn
+http://www.sxjdxy.org
+http://www.cntcvc.com
+http://www.sxbac.net.cn
+http://www.sxemc.com
+http://www.sxsy.com.cn
+http://www.sxjrzyxy.com
+http://www.sxzzy.cn
+http://www.tylyzyxy.com
+http://www.sxibs.com
+http://www.sxlqzy.cn
+http://www.sxtwedu.com
+http://www.sxptc.com
+http://www.shanxixjxy.com
+http://www.sxcmvc.com
+http://www.sxly.com.cn
+http://www.huaao.sx.cn
+http://www.jzzy.sx.cn
+http://www.sycnxy.com
+http://www.szvtc.com
+http://www.sxjzsf.cn
+http://www.sxyqsz.cn
+http://www.sdsy.sxu.edu.cn
+http://www.xdkj.tyut.edu.cn
+http://www.cisau.com.cn
+http://www.sxnu.edu.cn
+http://www.kdhk.cn
+http://www.sxmu-jcc.com
+http://www.schsxy.com
+http://www.sxqgy.cn
+http://www.sxmtxy.net
+http://www.arft.net
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.lzu.edu.cn
+http://www.xbmu.edu.cn
+http://www.lut.cn
+http://www.lzjtu.edu.cn
+http://www.gsau.edu.cn
+http://www.nwnu.edu.cn
+http://www.gszy.edu.cn
+http://www.ldxy.edu.cn
+http://www.tsnc.edu.cn
+http://www.lzcc.edu.cn
+http://www.gsli.edu.cn
+http://www.lzcu.edu.cn
+http://www.hxu.edu.cn
+http://www.gnun.edu.cn
+http://www.lzptc.edu.cn
+http://www.plmc.edu.cn
+http://www.zymc.edu.cn
+http://www.lntc.edu.cn
+http://www.dxatc.cn
+http://www.gsu.edu.cn
+http://www.lzpcc.com.cn
+http://www.lzwyedu.com
+http://www.gsjtxy.edu.cn
+http://www.wwoc.cn
+http://www.gsipc.gsedu.cn
+http://www.jqzy.com
+http://www.gs-police.com
+http://www.gcvtc.gsedu.cn
+http://www.gsfc.edu.cn
+http://www.lzre.edu.cn
+http://www.lvu.edu.cn
+http://www.xmgcxy.gsedu.cn
+http://www.gnzy.gssedu.cn
+http://www.gsjdxy.com
+http://www.lzlqc.com
+http://www.bowenedu.cn
+http://www.lutcte.cn
+http://www.lzec.cn
+http://www.lzavu.cn
+http://www.byjsxy.com
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.nxu.edu.cn
+http://www.nwsni.edu.cn
+http://www.nxmu.edu.cn
+http://www.nxist.com
+http://www.nxtu.cn
+http://www.nxmzy.com
+http://www.nxjm.com
+http://www.nxtc.edu.cn
+http://www.nxjy.edu.cn
+http://www.nxcy.edu.cn
+http://www.nsjy.com.cn
+http://www.ycu.com.cn
+http://www.cumtyc.com.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.hbu.edu.cn
+http://www.heuet.edu.cn
+http://www.ysu.edu.cn
+http://www.heut.edu.cn
+http://www.hebust.edu.cn
+http://www.hebeu.edu.cn
+http://www.hebau.edu.cn
+http://www.hebmu.edu.cn
+http://www.hebtu.edu.cn
+http://www.hbafa.com
+http://www.wjxy.edu.cn
+http://www.cicp.edu.cn
+http://www.fzxy.edu.cn
+http://www.ncist.edu.cn
+http://www.stdu.edu.cn
+http://www.hebiace.edu.cn
+http://www.nciae.edu.cn
+http://www.sjzue.edu.cn
+http://www.cdmc.edu.cn
+http://www.hevttc.edu.cn
+http://www.xttc.edu.cn
+http://www.lfsfxy.org.cn
+http://www.tstc.edu.cn
+http://www.hbcf.edu.cn
+http://www.hepec.edu.cn
+http://www.hebic.cn
+http://www.sjzc.edu.cn
+http://www.bdu.edu.cn
+http://www.hsnc.edu.cn
+http://www.tsc.edu.cn
+http://www.hebeinu.edu.cn
+http://www.hdc.edu.cn
+http://www.hbun.net
+http://www.caztc.edu.cn
+http://www.hbkjxy.cn
+http://www.hbafa.com
+http://www.hbgz.edu.cn
+http://www.hbyesf.com
+http://www.hebcpc.cn
+http://www.hbnyxy.cn
+http://www.hbcit.edu.cn
+http://www.hebnzxy.com
+http://www.hbjcxy.com
+http://www.hbsi.com.cn
+http://www.hbvcfl.com.cn
+http://www.helc.edu.cn
+http://www.hbjd.com.cn
+http://www.hbgy.edu.cn
+http://www.jjgxy.com.cn
+http://www.hebsjy.com
+http://www.pvtc.edu.cn
+http://www.hejtxy.edu.cn
+http://www.cdtvc.com
+http://www.hebart.com
+http://www.sjzcj.edu.cn
+http://www.hbwy.com.cn
+http://www.wsxy.net
+http://www.kjxinxiedu.com
+http://www.sjziei.com
+http://www.sjzrmyz.com
+http://www.sjzmc.cn
+http://www.xtmc.net
+http://www.sirt.edu.cn
+http://www.sjzpt.edu.cn
+http://www.sjzpc.edu.cn
+http://www.sjzcvc.com
+http://www.sjzgsxy.com
+http://www.sjzkjxy.net
+http://www.zdsf.net
+http://www.sjzwgyxy.com
+http://www.hbfsh.com
+http://www.bvtc.com.cn
+http://www.bddy.cn
+http://www.czmc.cn
+http://www.czvtc.cn
+http://www.cdpc.edu.cn
+http://www.cdwx.cn
+http://www.tskjzy.cn
+http://www.tsgzy.edu.cn
+http://www.tsvtc.com
+http://www.lfzhjxy.net
+http://www.dfzy.edu.cn
+http://www.lfyjzjxy.com
+http://www.xtvtc.net
+http://www.hd-u.com
+http://www.zhz.cn
+http://www.jzhxy.com
+http://www.bhsyxy.com
+http://www.xhkjzyxy.com
+http://www.btzyxy.com.cn
+http://www.hsvtc.cn
+http://www.qhdvtc.com
+http://www.hdky.edu.cn
+http://www.hicc.cn
+http://www.stdusfc.cn
+http://www..sjzue.edu.cn
+http://www.cuggw.com
+http://www.ncbuct.com
+http://www.df-college.com
+http://www.bjtuhbxy.cn
+http://www.dkyaolan.com
+http://www.hbqgy.cn
+http://www.emcc.cn
+http://www.sjzzgdx.com
+http://www.zjkjyxy.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.scu.edu.cn
+http://www.swjtu.edu.cn
+http://www.uestc.edu.cn
+http://www.swufe.edu.cn
+http://www.swun.edu.cn
+http://www.cdut.edu.cn
+http://www.xhu.edu.cn
+http://www.swust.edu.cn
+http://www.sicau.edu.cn
+http://www.cdutcm.edu.cn
+http://www.sicnu.edu.cn
+http://www.cwnu.edu.cn
+http://www.cafuc.edu.cn
+http://www.swpu.edu.cn
+http://www.sasu.edu.cn
+http://www.cuit.edu.cn
+http://www.lzmc.edu.cn
+http://www.nsmc.edu.cn
+http://www.cmc.edu.cn
+http://www.lstc.net
+http://www.sasu.edu.cn
+http://www.njtc.edu.cn
+http://www.scpolicec.edu.cn
+http://www.cdsu.edu.cn
+http://www.sccm.cn
+http://www.scun.edu.cn
+http://www.mnu.cn
+http://www.yibinu.cn
+http://www.pzhu.edu.cn
+http://www.cdu.edu.cn
+http://www.xcc.sc.cn
+http://www.ccniit.com
+http://www.cdtc.edu.cn
+http://www.shic.edu.cn
+http://www.cec.edu.cn
+http://www.scctcm.cn
+http://www.abtc.edu.cn
+http://www.tianyi.org
+http://www.cavtc.net
+http://www.scatc.net
+http://www.scvtc.com
+http://www.lzy.edu.cn
+http://www.gavtc.cn
+http://www.scsw.net.cn
+http://www.scetc.net
+http://www.kc.sc.sgcc.com.cn
+http://www.sptpc.com
+http://www.sctbc.net
+http://www.scjavc.cn
+http://www.dzzjy.com
+http://www.scemi.com
+http://www.scstc.cn
+http://www.myvtc.edu.cn
+http://www.scitc.com.cn
+http://www.sacvt.com
+http://www.sccvtc.cn
+http://www.swcvc.net.cn
+http://www.svccc.net
+http://www.scmpi.cn
+http://www.schxmvc.com
+http://www.nczy.com
+http://www.cdvtc.com
+http://www.msvtc.net
+http://www.sjpopc.net
+http://www.cdnkxy.com
+http://www.ybzy.cn
+http://www.yazjy.com
+http://www.lszyxy.com
+http://www.cdartpro.cn
+http://www.scetop.com
+http://www.njvtc.cn
+http://www.scvcci.cn
+http://www.scapi.cn
+http://www.scpcfe.cn
+http://www.scuvc.com
+http://www.scmvc.cn
+http://www.scyesz.com
+http://www.cdutetc.cn
+http://www.cdysxy.com
+http://www.yihms.com
+http://www.scnucas.com
+http://www.cdxy.edu.cn
+http://www.cisisu.edu.cn
+http://www.gtsoft.com.cn
+http://www.scujcc.com.cn
+http://www.ccswust.com.cn
+http://www.cymyadc.com
+http://www.scujj.com
+http://www.tf-swufe.net
+http://www.swjtuhc.cn
+http://www.scce.edu.cn
+http://www.caepit.net
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.cqu.edu.cn
+http://www.swu.edu.cn
+http://www.cquc.edu.cn
+http://www.cqupt.edu.cn
+http://www.cqmu.edu.cn
+http://www.cqnu.edu.cn
+http://www.ctbu.edu.cn
+http://www.swupl.edu.cn
+http://www.cqust.cn
+http://www.cqut.edu.cn
+http://www.yznu.cn
+http://www.sisu.edu.cn
+http://www.scfai.edu.cn
+http://www.sanxiau.net
+http://www.cqwu.net
+http://www.cqepc.com.cn
+http://www.cqyygz.com
+http://www.sxyyc.net
+http://www.cqcet.com
+http://www.cqipc.net
+http://www.cqslzy.com
+http://www.cqtbi.edu.cn
+http://www.cqms.edu.cn
+http://www.cqbyxy.com
+http://www.cswu.cn
+http://www.cqeec.com
+http://www.cqjy.com.cn
+http://www.cqcvc.com.cn
+http://www.cqvie.edu.cn
+http://www.cqqzy.cn
+http://www.cqevi.net.cn
+http://www.zdsoft.com.cn
+http://www.cqepc.cn
+http://www.cqsxedu.com
+http://www.cqgmy.cn
+http://www.cqhl.net.cn
+http://www.cqcfe.com
+http://www.cqie.cn
+http://www.cctc.cq.cn
+http://www.cqny.net
+http://www.cqswxy.cn
+http://www.cqjky.com
+http://www.cqvit.com
+http://www.cqhgzy.com
+http://www.swuyc.edu.cn
+http://www.tcsisu.com
+http://www.swsm.cn
+http://www.cqrz.edu.cn
+http://www.cqyti.com
+http://www.cqucc.com.cn
+http://www.cqec.net.cn
+http://www.cqec.net.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.utibet.edu.cn
+http://www.ttmc.edu.cn
+http://www.xzmy.edu.cn
+http://www.xzlssf.org
+http://www.tpa.net.cn
+http://www.xzgzy.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.qhu.edu.cn
+http://www.qhnu.edu.cn
+http://www.qhmu.edu.cn
+http://www.qhxmzy.com.cn
+http://www.qhwszy.edu.cn
+http://www.qhctc.edu.cn
+http://www.qhnews.com
+http://www.qhjyedu.com
+http://www.klxy.com.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.imu.edu.cn
+http://www.imust.cn
+http://www.imun.edu.cn
+http://www.imut.edu.cn
+http://www.imau.edu.cn
+http://www.imnu.edu.cn
+http://www.immc.edu.cn
+http://www.hlbrc.cn
+http://www.imnc.edu.cn
+http://www.cfxy.cn
+http://www.jnsz.nm.cn
+http://www.imfec.edu.cn
+http://www.wlcbswx.com
+http://www.hetaodaxue.com
+http://www.btzyjsxy.cn
+http://www.imaa.edu.cn
+http://www.whvtc.net
+http://www.btsvc.net
+http://www.keqysxy.com.cn
+http://www.bttzy.com
+http://www.nmsmxy.com
+http://www.ordosvc.cn
+http://www.nmjtzy.com
+http://www.nmgjdxy.com
+http://www.imstu.org.cn
+http://www.imeic.cn
+http://www.xlglvc.cn
+http://www.hhvc.net.cn
+http://www.btqy.com.cn
+http://www.wlcbzyxy.com.cn
+http://www.tlzyxy.com
+http://www.hgzyxy.com.cn
+http://www.nmgjwy.com
+http://www.cfzyjsxy.com
+http://www.nmbfxy.com
+http://www.nmxzy.cn
+http://www.nmtyxy.com
+http://www.imppc.cn
+http://www.qcdx.net
+http://www.hlbrzy.com
+http://www.nmxuanyuan.cn
+http://www.imuchuangye.cn
+http://www.honder.com
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.xju.edu.cn
+http://www.shzu.edu.cn
+http://www.xjau.edu.cn
+http://www.taru.edu.cn
+http://www.xjmu.edu.cn
+http://www.xjnu.edu.cn
+http://www.kstc.edu.cn
+http://www.ylsy.edu.cn
+http://www.xjufe.edu.cn
+http://www.xjart.edu.cn
+http://www.cjc.net.cn
+http://www.xgz.edu.cn
+http://www.xjumc.cn
+http://www.htszedu.cn
+http://www.xjjz.cn
+http://www.xjbtjx.com
+http://www.uvu.edu.cn
+http://www.xjnzy.edu.cn
+http://www.kzjsxy.net
+http://www.xjjd.com.cn
+http://www.xjqg.edu.cn
+http://www.ylzyjs.cn
+http://www.xjjszy.net
+http://www.cjpt.cn
+http://www.xjnyedu.com
+http://www.xjbyxy.cn
+http://www.akszy.com
+http://www.xjxiandai.net
+http://www.xjshzzy.com
+http://www.xjjtedu.com
+http://www.xjtsxy.cn
+http://www.xjvu.edu.cn
+http://www.kj.xju.edu.cn
+http://www.xjstc.net
+http://www.xzzsks.com.cn
+http://www..xjmu.edu.cn
+http://www.xjei.cn
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.hku.hk
+http://www.ust.hk
+http://www.polyu.edu.hk
+http://www.cuhk.edu.hk
+http://www.hkbu.edu.hk
+http://www.cityu.edu.hk
+http://www.ln.edu.hk
+http://www.ied.edu.hk
+http://www.goethe.de
+http://www.umac.mo
+http://www.ipm.edu.mo
+http://www.must.edu.mo
+http://www.cityu.edu.mo
+http://www.kwnc.edu.mo
+http://www.ift.edu.mo
+http://www.fsm.gov.mo
+http://www.ncu.edu.tw
+http://www.nthu.edu.tw
+http://www.nctu.edu.tw
+http://www.ntu.edu.tw
+http://www.ncyu.edu.tw
+http://www.yzu.edu.tw
+http://www.ncku.edu.tw
+http://www.nsysu.edu.tw
+http://www.cycu.edu.tw
+http://www.nccu.edu.tw
+http://www.fju.edu.tw
+http://www.fju.edu.tw
+http://www.ntust.edu.tw
+http://www.ntnu.edu.tw
+http://www.ntua.edu.tw
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.hku.hk
+http://www.ust.hk
+http://www.polyu.edu.hk
+http://www.cuhk.edu.hk
+http://www.hkbu.edu.hk
+http://www.cityu.edu.hk
+http://www.ln.edu.hk
+http://www.ied.edu.hk
+http://www.goethe.de
+http://www.umac.mo
+http://www.ipm.edu.mo
+http://www.must.edu.mo
+http://www.cityu.edu.mo
+http://www.kwnc.edu.mo
+http://www.ift.edu.mo
+http://www.fsm.gov.mo
+http://www.ncu.edu.tw
+http://www.nthu.edu.tw
+http://www.nctu.edu.tw
+http://www.ntu.edu.tw
+http://www.ncyu.edu.tw
+http://www.yzu.edu.tw
+http://www.ncku.edu.tw
+http://www.nsysu.edu.tw
+http://www.cycu.edu.tw
+http://www.nccu.edu.tw
+http://www.fju.edu.tw
+http://www.fju.edu.tw
+http://www.ntust.edu.tw
+http://www.ntnu.edu.tw
+http://www.ntua.edu.tw
+http://www.feelingmsg.com
+http://www.linezing.com
+http://www.hku.hk
+http://www.ust.hk
+http://www.polyu.edu.hk
+http://www.cuhk.edu.hk
+http://www.hkbu.edu.hk
+http://www.cityu.edu.hk
+http://www.ln.edu.hk
+http://www.ied.edu.hk
+http://www.goethe.de
+http://www.umac.mo
+http://www.ipm.edu.mo
+http://www.must.edu.mo
+http://www.cityu.edu.mo
+http://www.kwnc.edu.mo
+http://www.ift.edu.mo
+http://www.fsm.gov.mo
+http://www.ncu.edu.tw
+http://www.nthu.edu.tw
+http://www.nctu.edu.tw
+http://www.ntu.edu.tw
+http://www.ncyu.edu.tw
+http://www.yzu.edu.tw
+http://www.ncku.edu.tw
+http://www.nsysu.edu.tw
+http://www.cycu.edu.tw
+http://www.nccu.edu.tw
+http://www.fju.edu.tw
+http://www.fju.edu.tw
+http://www.ntust.edu.tw
+http://www.ntnu.edu.tw
+http://www.ntua.edu.tw
+http://www.feelingmsg.com
+http://www.linezing.com
+</code>
+#3、不同省份高校（第一列是学校地址，第二列是存在漏洞的DNS服务器）
+<code>
+港澳台：
+ipm.edu.mo:  ipmsun2.ipm.edu.mo.
+must.edu.mo:  ns2.must.edu.mo.
+ift.edu.mo:  ntserver1.ift.edu.mo.
+ntnu.edu.tw:  ns2.ntnu.edu.tw.
+
+------------------------------------------
+云南：
+
+ynu.edu.cn:  pridns.ynu.edu.cn.
+ynnu.edu.cn:  secdns.ynnu.edu.cn.
+ynufe.edu.cn:  dns1.ynufe.edu.cn.
+ynni.edu.cn:  king.ynni.edu.cn.
+swfc.edu.cn:  dns1.swfc.edu.cn.
+kmu.edu.cn:  DNS2.kmu.edu.cn.
+sailingedu.com:  ns4.01isp.net.
+
+--------------------------------------------
+浙江
+zjnu.edu.cn:  nmc.zjnu.edu.cn.
+hzic.edu.cn:  sun150.hzic.edu.cn.
+nottingham.edu.cn:  dns2.nottingham.edu.cn.
+zjfc.edu.cn:  forcol.zafu.edu.cn.
+zjfc.edu.cn:  forcol2.zafu.edu.cn.
+cjlu.edu.cn:  nst.cjlu.edu.cn.
+hutc.zj.cn:  dns.hutc.zj.cn.
+zscas.edu.cn:  name.zscas.edu.cn.
+zjwu.net:  ns1.zjwu.net.
+zjwu.net:  ns2.zjwu.net.
+zjnu.edu.cn:  nmc.zjnu.edu.cn.
+hzic.edu.cn:  sun150.hzic.edu.cn.
+nottingham.edu.cn:  dns2.nottingham.edu.cn.
+zjfc.edu.cn:  forcol2.zafu.edu.cn.
+zjfc.edu.cn:  forcol.zafu.edu.cn.
+cjlu.edu.cn:  nst.cjlu.edu.cn.
+hutc.zj.cn:  dns.hutc.zj.cn.
+zscas.edu.cn:  name.zscas.edu.cn.
+zjwu.net:  ns1.zjwu.net.
+zjwu.net:  ns2.zjwu.net.
+jhc.cn:  dns2.jhc.cn.
+hzaspt.edu.cn:  dns.hzrtvu.edu.cn.
+zjiet.edu.cn:  dns2.zjiet.edu.cn.
+zucc.edu.cn:  dns.zucc.edu.cn.
+shufe-zj.edu.cn:  ns2.cernet.com.
+
+--------------------------------------------
+山东：
+
+sdust.edu.cn:  sdma.sdust.edu.cn.
+lcu.edu.cn:  dns.lcu.edu.cn.
+lcu.edu.cn:  car.lcu.edu.cn.
+ytu.edu.cn:  dns.ytu.edu.cn.
+ujn.edu.cn:  MailBox.ujn.edu.cn.
+ujn.edu.cn:  WWW.ujn.edu.cn.
+qau.edu.cn:  dns1.qau.edu.cn.
+qau.edu.cn:  dns2.qau.edu.cn.
+tsmc.edu.cn:  tsweb.tsmc.edu.cn.
+tsmc.edu.cn:  taishan.tsmc.edu.cn.
+jnmc.edu.cn:  dns1.jnmc.edu.cn.
+dzu.edu.cn:  sun.dzu.edu.cn.
+sdibt.edu.cn:  dns1.sdibt.edu.cn.
+sdibt.edu.cn:  dns2.sdibt.edu.cn.
+hezeu.edu.cn:  dns1.hezeu.edu.cn.
+uzz.edu.cn:  uzzdns.uzz.edu.cn.
+hzmc.edu.cn:  dns.hzmc.edu.cn.
+sdmyxy.cn:  ns7.dns.net.cn.
+fareast-edu.net:  ns1.jndns.net.
+sdp.edu.cn:  dns2.sdp.edu.cn.
+sdp.edu.cn:  dns1.sdp.edu.cn.
+sdkevin.cn:  ns1.jndns.net.
+zzkjxy.com:  ns4.01isp.net.
+pusc.cn:  ns7.dns.net.cn.
+sdngy.edu.cn:  dns1.sdngy.edu.cn.
+
+--------------------------------------------
+安徽：
+hfut.edu.cn:  dns.hfut.edu.cn.
+aust.edu.cn:  hh.aust.edu.cn.
+ahut.edu.cn:  dns1.ahut.edu.cn.
+ahut.edu.cn:  dns.ahut.edu.cn.
+ahau.edu.cn:  abc.ahau.edu.cn.
+ahau.edu.cn:  efg.ahau.edu.cn.
+hbcnc.edu.cn:  chnu1.chnu.edu.cn.
+ahtcm.edu.cn:  dns1.ahtcm.edu.cn.
+wnmc.edu.cn:  ljx.wnmc.edu.cn.
+bbmc.edu.cn:  ns.bbmc.edu.cn.
+fync.edu.cn:  fysy1.fync.edu.cn.
+hnnu.edu.cn:  hnds1.hnnu.edu.cn.
+hsu.edu.cn:  dns.hsu.edu.cn.
+hsu.edu.cn:  ns.hsu.edu.cn.
+wxc.edu.cn:  dns1.wxc.edu.cn.
+chzu.edu.cn:  dns.chzu.edu.cn.
+wendaedu.com.cn:  ns6.hotsales.net.
+abc.edu.cn:  ns2.cernet.com.
+abc.edu.cn:  ns2.hosting.edu.cn.
+aust.edu.cn:  hh.aust.edu.cn.
+ahut.edu.cn:  dns.ahut.edu.cn.
+ahut.edu.cn:  dns1.ahut.edu.cn.
+ahau.edu.cn:  abc.ahau.edu.cn.
+ahau.edu.cn:  efg.ahau.edu.cn.
+hbcnc.edu.cn:  chnu1.chnu.edu.cn.
+ahtcm.edu.cn:  dns1.ahtcm.edu.cn.
+wnmc.edu.cn:  ljx.wnmc.edu.cn.
+bbmc.edu.cn:  ns.bbmc.edu.cn.
+fync.edu.cn:  fysy1.fync.edu.cn.
+hnnu.edu.cn:  hnds1.hnnu.edu.cn.
+hsu.edu.cn:  dns.hsu.edu.cn.
+hsu.edu.cn:  ns.hsu.edu.cn.
+wxc.edu.cn:  dns1.wxc.edu.cn.
+chzu.edu.cn:  dns.chzu.edu.cn.
+wendaedu.com.cn:  ns6.hotsales.net.
+abc.edu.cn:  ns2.cernet.com.
+abc.edu.cn:  ns2.hosting.edu.cn.
+hnuu.edu.cn:  dns2.hnuu.edu.cn.
+xcvtc.edu.cn:  dns1.xcvtc.edu.cn.
+ahcme.cn:  dns1.ahcme.cn.
+mastc.edu.cn:  dns1.mastc.edu.cn.
+hszyxy.com:  ns4.01isp.net.
+wxwsxy.cn:  ns1.cnspeed.com.
+wxwsxy.cn:  ns2.cnspeed.com.
+hhuwtian.edu.cn:  dns2.hhuwtian.edu.cn.
+
+--------------------------------------------
+北京：
+njtu.edu.cn:  venus.njtu.edu.cn.
+cup.edu.cn:  dmn2.cup.edu.cn.
+cup.edu.cn:  dmn1.cup.edu.cn.
+cumtb.edu.cn:  kd1.cumtb.edu.cn.
+cumtb.edu.cn:  kd2.cumtb.edu.cn.
+cugb.edu.cn:  ring.cugb.edu.cn.
+bupt.edu.cn:  gus.buptnet.edu.cn.
+cau.edu.cn:  nsb.cau.edu.cn.
+cau.edu.cn:  ns2.cau.edu.cn.
+bucm.edu.cn:  out.bucm.edu.cn.
+bucm.edu.cn:  bkdns.bucm.edu.cn.
+blcu.edu.cn:  dns.blcu.edu.cn.
+muc.edu.cn:  dns.muc.edu.cn.
+cams.ac.cn:  kj-dns.cams.ac.cn.
+cams.ac.cn:  camsdns.cams.ac.cn.
+bjut.edu.cn:  dragon2.bjut.edu.cn.
+cnu.edu.cn:  dns.cnu.edu.cn.
+ciir.edu.cn:  dns1.ciir.edu.cn.
+bucea.edu.cn:  dns1.bucea.edu.cn.
+bucea.edu.cn:  dns2.bucea.edu.cn.
+bigc.edu.cn:  dns.bigc.edu.cn.
+bac.edu.cn:  dns2.bua.edu.cn.
+bisu.edu.cn:  dns.bisu.edu.cn.
+bisu.edu.cn:  dns2.bisu.edu.cn.
+bwu.edu.cn:  ns2.bwu.edu.cn.
+bfa.edu.cn:  ns1.bfa.edu.cn.
+bcu.edu.cn:  dns1.bcu.edu.cn.
+biem.edu.cn:  ns2.cernet.com.
+biem.edu.cn:  ns2.hosting.edu.cn.
+kdcnu.com:  ns7.dns.net.cn.
+
+
+--------------------------------------------
+重庆：
+swu.edu.cn:  dns1.swu.edu.cn.
+scfai.edu.cn:  server-lh3.scfai.edu.cn.
+cqie.cn:  ns.cqie.cn.
+swuyc.edu.cn:  dns2.swuyc.edu.cn.
+swuyc.edu.cn:  dns1.swuyc.edu.cn.
+
+
+--------------------------------------------
+福建：
+fjtcm.edu.cn:  ZYXY-TSG.fjtcm.edu.cn.
+qztc.edu.cn:  E250-1.qztc.edu.cn.
+qztc.edu.cn:  dns.qztc.edu.cn.
+mju.edu.cn:  dns1.mju.edu.cn.
+smc.edu.cn:  smc.edu.cn.
+fjpsc.edu.cn:  dns1.fjpsc.edu.cn.
+lmu.cn:  dns2.lmu.cn.
+qzit.edu.cn:  ns2.cernet.com.
+qzit.edu.cn:  ns2.hosting.edu.cn.
+
+
+--------------------------------------------
+甘肃：
+lzu.edu.cn:  sigma.lzu.edu.cn.
+lzu.edu.cn:  spin.lzu.edu.cn.
+lut.cn:  dns.lut.cn.
+nwnu.edu.cn:  tsg.nwnu.edu.cn.
+tsnc.edu.cn:  tspns.tsnc.edu.cn.
+hxu.edu.cn:  tdns.hxu.edu.cn.
+hxu.edu.cn:  sun480.hxu.edu.cn.
+
+--------------------------------------------
+广东：
+gdou.edu.cn:  dns1.gdou.edu.cn.
+gzhtcm.edu.cn:  gzzy420.gzhtcm.edu.cn.
+gdpa.edu.cn:  public.gdpa.edu.cn.
+zhjnc.edu.cn:  zhjnc1.zhjnc.edu.cn.
+sgu.edu.cn:  dns.sgu.edu.cn.
+gduf.edu.cn:  dns.gduf.edu.cn.
+gdppla.edu.cn:  dnsb.gdppla.edu.cn.
+gdei.edu.cn:  ns2.gdei.edu.cn.
+nhic.edu.cn:  dns.nhic.edu.cn.
+gdqy.edu.cn:  dns2.gdqy.edu.cn.
+gdqy.edu.cn:  dns1.gdqy.edu.cn.
+gdpi.edu.cn:  dns1.gdpi.edu.cn.
+gdit.edu.cn:  dns3.gdit.edu.cn.
+caac.net:  dns0.caac.net.
+gcp.edu.cn:  dns1.gcp.edu.cn.
+zhcpt.net:  ns4.01isp.net.
+dgpt.edu.cn:  ns2.cernet.com.
+dgpt.edu.cn:  ns2.hosting.edu.cn.
+
+--------------------------------------------
+广西：
+gliet.edu.cn:  dns.gliet.edu.cn.
+glite.edu.cn:  star.glite.edu.cn.
+gxut.edu.cn:  cernetdns01.gxust.edu.cn.
+gxut.edu.cn:  cernetdns02.gxust.edu.cn.
+ylu.edu.cn:  ns2.hosting.edu.cn.
+ylu.edu.cn:  ns2.cernet.com.
+glcat.edu.cn:  jupiter.glcat.edu.cn.
+glnc.edu.cn:  alpha2.glnc.edu.cn.
+glnc.edu.cn:  alpha1.glnc.edu.cn.
+gxcme.edu.cn:  ns2.hosting.edu.cn.
+gxcme.edu.cn:  ns2.cernet.com.
+
+--------------------------------------------
+贵州：
+gzhnc.edu.cn:  dns.gzhnc.edu.cn.
+sgmtu.edu.cn:  dns.sgmtu.edu.cn.
+gzife.edu.cn:  dns.gzife.edu.cn.
+
+--------------------------------------------
+海南：
+hainu.edu.cn:  netrai.hainu.edu.cn.
+qttc.edu.cn:  DNS1.qttc.edu.cn.
+ucsanya.com:  ns4.01isp.net.
+syxyhn.com:  ns4.01isp.net.
+
+--------------------------------------------
+河北：
+hbu.edu.cn:  nm.hbu.cn.
+hbu.edu.cn:  nm.hbu.edu.cn.
+hbu.edu.cn:  nm2.hbu.edu.cn.
+hbu.edu.cn:  nm2.hbu.cn.
+ysu.edu.cn:  ysudns2.ysu.edu.cn.
+hebust.edu.cn:  dns.hebust.edu.cn.
+hebust.edu.cn:  dnst.hebust.edu.cn.
+hebau.edu.cn:  nddns1.hebau.edu.cn.
+hebtu.edu.cn:  ns.hebtu.edu.cn.
+cicp.edu.cn:  dns1.cicp.edu.cn.
+ncist.edu.cn:  ns2.hosting.edu.cn.
+ncist.edu.cn:  ns2.cernet.com.
+xttc.edu.cn:  dns-server-2.xttc.edu.cn.
+lfsfxy.org.cn:  ns7.dns.net.cn.
+tstc.edu.cn:  dns1.tstc.edu.cn.
+tstc.edu.cn:  dns3.tstc.edu.cn.
+tstc.edu.cn:  dns2.tstc.edu.cn.
+hbcf.edu.cn:  dns1.hbcf.edu.cn.
+tsc.edu.cn:  ns2.hosting.edu.cn.
+tsc.edu.cn:  ns2.cernet.com.
+hebeinu.edu.cn:  dnsserverbak.hebeinu.edu.cn.
+caztc.edu.cn:  ns.caztc.edu.cn.
+hbnyxy.cn:  ns2.cnspeed.com.
+hbnyxy.cn:  ns1.cnspeed.com.
+hbgy.edu.cn:  ns.hbgy.edu.cn.
+pvtc.edu.cn:  ns.pvtc.edu.cn.
+sirt.edu.cn:  dns1.sirt.edu.cn.
+sjzpc.edu.cn:  ns.sjzpc.edu.cn.
+sjzpc.edu.cn:  green.sjzpc.edu.cn.
+czvtc.cn:  ns2.hosting.edu.cn.
+czvtc.cn:  ns2.cernet.com.
+tsgzy.edu.cn:  dns.tsgzy.edu.cn.
+dfzy.edu.cn:  ns2.hosting.edu.cn.
+dfzy.edu.cn:  ns2.cernet.com.
+xhkjzyxy.com:  ns7.dns.net.cn.
+hdky.edu.cn:  ns2.cernet.com.
+hdky.edu.cn:  ns2.hosting.edu.cn.
+hicc.cn:  nm2.hbu.edu.cn.
+hicc.cn:  nm.hbu.cn.
+hicc.cn:  nm.hbu.edu.cn.
+hicc.cn:  nm2.hbu.cn.
+
+--------------------------------------------
+河南：
+henu.edu.cn:  dns2.henu.edu.cn.
+haust.edu.cn:  dns1.haust.edu.cn.
+haust.edu.cn:  dns.haust.edu.cn.
+haut.edu.cn:  server.haut.edu.cn.
+haut.edu.cn:  dns.haut.edu.cn.
+henau.edu.cn:  cpqpl1500.henau.edu.cn.
+huel.edu.cn:  dns.huel.edu.cn.
+ncwu.edu.cn:  dns4.ncwu.edu.cn.
+ncwu.edu.cn:  dns2.ncwu.edu.cn.
+ncwu.edu.cn:  dns.ncwu.edu.cn.
+ncwu.edu.cn:  dns3.ncwu.edu.cn.
+zzia.edu.cn:  dns.zzia.edu.cn.
+zzia.edu.cn:  dns2.zzia.edu.cn.
+xxmu.edu.cn:  dns.xxmu.edu.cn.
+sqnc.edu.cn:  dns.sqnc.edu.cn.
+zknu.edu.cn:  dns.zknu.edu.cn.
+hist.edu.cn:  dns.hist.edu.cn.
+xctc.edu.cn:  dns2.xcu.edu.cn.
+xxu.edu.cn:  DNS1.xxu.edu.cn.
+lhmc.edu.cn:  dns.lhmc.edu.cn.
+zepc.edu.cn:  dns.zepc.edu.cn.
+zepc.edu.cn:  pdc.zepc.edu.cn.
+xyac.edu.cn:  dns.xyac.edu.cn.
+nymc.cn:  ns7.dns.net.cn.
+jzsz.edu.cn:  dns.jzsz.edu.cn.
+zkvtc.edu.cn:  dns.zkvtc.edu.cn.
+zzjm.edu.cn:  dns.zzjm.edu.cn.
+xcitc.edu.cn:  dns.xcitc.edu.cn.
+brenda.edu.cn:  dns2.brenda.edu.cn.
+haict.edu.cn:  dns.haict.edu.cn.
+xlxy.net:  ns02.f135jp6425.info.
+xlxy.net:  ns01.f135jp6425.info.
+kfie.cn:  DNS.kfie.edu.cn.
+haie.edu.cn:  dns.haie.edu.cn.
+
+--------------------------------------------
+湖北:
+scuec.edu.cn:  dns.scuec.edu.cn.
+scuec.edu.cn:  dns2.scuec.edu.cn.
+hubu.edu.cn:  dns.hubu.edu.cn.
+yangtzeu.edu.cn:  dns3.yangtzeu.edu.cn.
+yangtzeu.edu.cn:  dns.yangtzeu.edu.cn.
+yangtzeu.edu.cn:  dns2.yangtzeu.edu.cn.
+ctgu.edu.cn:  DNS.ctgu.edu.cn.
+jhun.edu.cn:  dns.jhun.edu.cn.
+hbut.edu.cn:  ltdns.hbut.edu.cn.
+wit.edu.cn:  dns1.wit.edu.cn.
+hifa.edu.cn:  dns2.hifa.edu.cn.
+hifa.edu.cn:  dns.hifa.edu.cn.
+whcm.edu.cn:  dns.whcm.edu.cn.
+hbuas.edu.cn:  dns.hbuas.edu.cn.
+hsit.edu.cn:  dns2.hsit.edu.cn.
+hsit.edu.cn:  dns.hsit.edu.cn.
+wtc.edu.cn:  dns.wtc.edu.cn.
+hbjhart.com:  ns4.01isp.net.
+
+--------------------------------------------
+湖南：
+hnu.cn:  dns1.hnu.cn.
+csust.edu.cn:  dns.csust.edu.cn.
+hnust.edu.cn:  dns.hnust.edu.cn.
+xtu.edu.cn:  pdns.xtu.edu.cn.
+usc.edu.cn:  DNS2.usc.edu.cn.
+hnie.edu.cn:  dns.hnie.edu.cn.
+huas.cn:  ns2.hosting.edu.cn.
+huas.cn:  ns2.cernet.com.
+hnupc.net:  ns2.cnspeed.com.
+hnupc.net:  ns1.cnspeed.com.
+cszyedu.cn:  ns1.cnspeed.com.
+cszyedu.cn:  ns2.cnspeed.com.
+csust.edu.cn:  dns.csust.edu.cn.
+
+--------------------------------------------
+江苏：
+sytu.edu.cn:  dns1.sytu.edu.cn.
+sytu.edu.cn:  dns.sytu.edu.cn.
+njust.edu.cn:  njust0.njust.edu.cn.
+yzu.edu.cn:  cims1.yzu.edu.cn.
+ujs.edu.cn:  dns1.ujs.edu.cn.
+njupt.edu.cn:  dns.njupt.edu.cn.
+just.edu.cn:  dns.just.edu.cn.
+njmu.edu.cn:  dns.njmu.edu.cn.
+xjtlu.edu.cn:  dns2.xjtlu.edu.cn.
+hhit.edu.cn:  hh1.hhit.edu.cn.
+czu.cn:  dns.czu.cn.
+njit.edu.cn:  dns2.njit.edu.cn.
+njit.edu.cn:  dns1.njit.edu.cn.
+hytc.edu.cn:  sfa.hytc.edu.cn.
+hytc.edu.cn:  sfb.hytc.edu.cn.
+njxzc.edu.cn:  dns2.njxzc.edu.cn.
+xzyz.edu.cn:  dns2.xzyz.edu.cn.
+nttec.edu.cn:  z.nttec.edu.cn.
+niit.edu.cn:  jdxx.niit.edu.cn.
+niit.edu.cn:  jdxy.niit.edu.cn.
+xzcat.edu.cn:  xjy2.xzcat.edu.cn.
+xzcat.edu.cn:  xjy1.xzcat.edu.cn.
+njci.cn:  dns1.njci.cn.
+yctei.cn:  dns.yctei.cn.
+siit.cn:  dns2.siit.cn.
+ytc.edu.cn:  dns1.ytc.edu.cn.
+ytc.edu.cn:  dns2.ytc.edu.cn.
+ntac.edu.cn:  green.ntac.edu.cn.
+njty.edu.cn:  dns2.njty.edu.cn.
+
+--------------------------------------------
+江西：
+jxnu.edu.cn:  dns.jxnu.edu.cn.
+ecit.edu.cn:  public1.ecit.edu.cn.
+sru.jx.cn:  ultra.sru.jx.cn.
+gnnu.cn:  dns11.gnnu.cn.
+ycu.jx.cn:  dns.ycu.jx.cn.
+jxxdxy.com:  ns4.01isp.net.
+jci-ky.cn:  ns2.cnspeed.com.
+jci-ky.cn:  ns1.cnspeed.com.
+ndgy.net:  ns1.cnspeed.com.
+ndgy.net:  ns2.cnspeed.com.
+
+--------------------------------------------
+吉林：
+ybu.edu.cn:  ybus3.ybu.edu.cn.
+ybu.edu.cn:  ybus1.ybu.edu.cn.
+ybu.edu.cn:  ybus2.ybu.edu.cn.
+cust.edu.cn:  dns.cust.edu.cn.
+ccut.edu.cn:  ns.ccut.edu.cn.
+jlnu.edu.cn:  jlnu-dns.jlnu.edu.cn.
+nedu.edu.cn:  dns2.nedu.edu.cn.
+nedu.edu.cn:  dns1.nedu.edu.cn.
+jlict.edu.cn:  dns1.jlict.edu.cn.
+thnu.edu.cn:  dns1.thnu.edu.cn.
+cncnc.edu.cn:  ns.cncnc.edu.cn.
+cncnc.edu.cn:  dns.cncnc.edu.cn.
+jvcit.edu.cn:  ns2.cernet.com.
+
+--------------------------------------------
+辽宁：
+dlmu.edu.cn:  ns2.dlmu.edu.cn.
+dlmu.edu.cn:  ns1.dlmu.edu.cn.
+dlu.edu.cn:  ns1.dlu.edu.cn.
+lntu.edu.cn:  ULTRA1.lntu.edu.cn.
+sjzu.edu.cn:  as.sjzu.edu.cn.
+lnpu.edu.cn:  frat.lnpu.edu.cn.
+djtu.edu.cn:  oar.djtu.edu.cn.
+cmu.edu.cn:  ns1.cmu.edu.cn.
+lnutcm.edu.cn:  ns.lnutcm.edu.cn.
+lnnu.edu.cn:  dnsp.lnnu.edu.cn.
+dufe.edu.cn:  dns.dufe.edu.cn.
+dufe.edu.cn:  dnsb.dufe.edu.cn.
+dlfu.edu.cn:  dns.dlfu.edu.cn.
+symc.edu.cn:  ns2.hosting.edu.cn.
+symc.edu.cn:  ns2.cernet.com.
+lumei.edu.cn:  dns.lumei.edu.cn.
+lncc.edu.cn:  ns2.lncc.edu.cn.
+lncc.edu.cn:  ns.lncc.edu.cn.
+fstc.cn:  ns7.dns.net.cn.
+dlrj.edu.cn:  ns2.cernet.com.
+lnsmzy.edu.cn:  ns2.cernet.com.
+cmu.edu.cn:  ns1.cmu.edu.cn.
+dmuzs.edu.cn:  ns2.cernet.com.
+dmuzs.edu.cn:  ns2.hosting.edu.cn.
+
+--------------------------------------------
+内蒙古：
+imu.edu.cn:  nmg1.imu.edu.cn.
+imut.edu.cn:  ns1.imut.edu.cn.
+imnc.edu.cn:  mgzd.imnc.edu.cn.
+imfec.edu.cn:  dns2.imfec.edu.cn.
+imaa.edu.cn:  dns2.imaa.edu.cn.
+
+--------------------------------------------
+宁夏：
+nxu.edu.cn:  nxu.edu.cn.
+nxu.edu.cn:  dns.nxu.edu.cn.
+
+--------------------------------------------
+上海：
+ecnu.edu.cn:  liwa.ecnu.edu.cn.
+usst.edu.cn:  dns1.usst.edu.cn.
+usst.edu.cn:  dns2.usst.edu.cn.
+shmtu.edu.cn:  ns2.shmtu.edu.cn.
+shmtu.edu.cn:  orient.shmtu.edu.cn.
+sues.edu.cn:  ns1.sues.edu.cn.
+ecupl.edu.cn:  dns.ecupl.edu.cn.
+ecupl.edu.cn:  rdns.ecupl.edu.cn.
+gench.com.cn:  dns1.gench.com.cn.
+gench.com.cn:  ns.gench.com.cn.
+sit.edu.cn:  ns1.sit.edu.cn.
+shfc.edu.cn:  dns.shfc.edu.cn.
+sbs.edu.cn:  dns1.sbs.edu.cn.
+sandau.edu.cn:  sdns1.sandau.edu.cn.
+smic.edu.cn:  dns.smic.edu.cn.
+smic.edu.cn:  dns1.smic.edu.cn.
+sppc.edu.cn:  dns1.sppc.edu.cn.
+sppc.edu.cn:  dns2.sppc.edu.cn.
+esu.edu.cn:  dns.esu.edu.cn.
+shumc.edu.cn:  ns2.hosting.edu.cn.
+shumc.edu.cn:  ns2.cernet.com.
+shsipo.com:  ns6.hotsales.net.
+sthu.cn:  ns7.dns.net.cn.
+
+
+--------------------------------------------
+山西：
+tyut.edu.cn:  tyutsvr.tyut.edu.cn.
+tyut.edu.cn:  venus.tyut.edu.cn.
+sxufe.edu.cn:  dns.sxufe.edu.cn.
+tynu.edu.cn:  dns.tynu.edu.cn.
+sxjztc.edu.cn:  dns2.sxjztc.edu.cn.
+sxsy.com.cn:  ns7.dns.net.cn.
+
+--------------------------------------------
+陕西：
+nwsuaf.edu.cn:  ncs1.nwsuaf.edu.cn.
+nwsuaf.edu.cn:  ncs2.nwsuaf.edu.cn.
+nwpu.edu.cn:  dns.nwpu.edu.cn.
+yau.edu.cn:  yddns.yau.edu.cn.
+xauat.edu.cn:  ntserver1.xauat.edu.cn.
+xisu.edu.cn:  dns.xisu.edu.cn.
+sntcm.edu.cn:  dns1.sntcm.edu.cn.
+wntc.edu.cn:  ns.wnu.edu.cn.
+snut.edu.cn:  dns.snut.edu.cn.
+tczyxy.net:  ns4.01isp.net.
+sxqzy.com:  ns7.dns.net.cn.
+snie.edu.cn:  dns1.snsy.edu.cn.
+snie.edu.cn:  dns1.snie.cn.
+snie.edu.cn:  dns1.snie.edu.cn.
+
+--------------------------------------------
+四川：
+cdut.edu.cn:  secdns.cdut.edu.cn.
+cdutcm.edu.cn:  ns2.cdutcm.edu.cn.
+scun.edu.cn:  DNS.scun.edu.cn.
+shic.edu.cn:  dns.shic.edu.cn.
+scvtc.com:  ns7.dns.net.cn.
+lzy.edu.cn:  dns1.lzy.edu.cn.
+scetop.com:  ns.scetop.com.
+
+--------------------------------------------
+天津：
+tjut.edu.cn:  dns.tjut.edu.cn.
+tjut.edu.cn:  dns1.tjut.edu.cn.
+tijmu.edu.cn:  dns.tijmu.edu.cn.
+tjufe.edu.cn:  dns.tjufe.edu.cn.
+tjufe.edu.cn:  dns1.tjufe.edu.cn.
+tjac.edu.cn:  dns.tjac.edu.cn.
+tjtc.edu.cn:  dns.tjtc.edu.cn.
+tifert.edu.cn:  ns2.hosting.edu.cn.
+tifert.edu.cn:  ns2.cernet.com.
+boustead.edu.cn:  dns1.boustead.edu.cn.
+tijmu.edu.cn:  dns.tijmu.edu.cn.
+
+--------------------------------------------
+新疆：
+tjut.edu.cn:  dns.tjut.edu.cn.
+tjut.edu.cn:  dns1.tjut.edu.cn.
+tijmu.edu.cn:  dns.tijmu.edu.cn.
+tjufe.edu.cn:  dns.tjufe.edu.cn.
+tjufe.edu.cn:  dns1.tjufe.edu.cn.
+tjac.edu.cn:  dns.tjac.edu.cn.
+tjtc.edu.cn:  dns.tjtc.edu.cn.
+tifert.edu.cn:  ns2.hosting.edu.cn.
+tifert.edu.cn:  ns2.cernet.com.
+boustead.edu.cn:  dns1.boustead.edu.cn.
+tijmu.edu.cn:  dns.tijmu.edu.cn.
+
+--------------------------------------------
+青海：
+--------------------------------------------
+西藏：
